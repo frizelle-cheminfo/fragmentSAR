@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "build" }
+    }
+  ],
+  "routes": [
+    // serve index.html for **all** non‑static URLs so your SPA router can take over
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
