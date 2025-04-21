@@ -1,13 +1,15 @@
-import adapter from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
 
 export default {
   preprocess: preprocess(),
   kit: {
-    // Use the Vercel adapter so Vercel auto‑detects & builds your app
-    adapter: adapter(),
+    adapter: adapter({
+      pages: "build",
+      assets: "build",
+      fallback: "index.html"
+    }),
     prerender: {
-      // prerender any non‑dynamic routes (home, about, etc.)
       default: true
     }
   }
