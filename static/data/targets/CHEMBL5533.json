@@ -1,0 +1,181 @@
+{
+  "id": "CHEMBL5533",
+  "name": "Nuclear factor NF-kappa-B p65 subunit",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5533",
+  "molecules": [
+    {
+      "id": "CHEMBL186141",
+      "name": "ANDROGRAPHOLIDE",
+      "smiles": "C=C1CC[C@@H]2[C@](C)(CO)[C@H](O)CC[C@@]2(C)[C@@H]1C/C=C1/C(=O)OC[C@H]1O",
+      "bioactivity_type": "IG50",
+      "bioactivity_value": 30.0,
+      "bioactivity_units": "uM"
+    },
+    {
+      "id": "CHEMBL939",
+      "name": "GEFITINIB",
+      "smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 515.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL325041",
+      "name": "BORTEZOMIB",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.62,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 78,
+      "avg_pKi": 7.75
+    },
+    {
+      "hash": "d697e25e11fc7d015d44a9b28eb9f7f0",
+      "smiles": "[7*]C1C(=O)OC[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "28b8e01ca5e1a19c336dec72762e125d",
+      "smiles": "[7*]CC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8445e47e3713e67afc2ccda25fb138ed",
+      "smiles": "C=C1CC[C@@H]2CCCCC2[C@@H]1C/C=C1\\CCOC1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "61ca279fcf29afc8aee53d0d4c9f0aaa",
+      "smiles": "[15*][C@@H]1C(=C)CC[C@@H]2[C@@]([15*])(C)[C@H](O)CC[C@@]12C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "68a0dd22b8c1bb0041923def84bb5e6f",
+      "smiles": "[16*]c1ccc(F)c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "b039bf6d28e8d526b2615ea5217be352",
+      "smiles": "[14*]c1ncnc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "2d07a29a4430b8e201faa19e808721a2",
+      "smiles": "c1ccc(Nc2ncnc3ccc(OCCCN4CCOCC4)cc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "f9c102ced0c7e1ca55571c5ffbcaeae8",
+      "smiles": "[4*]CCC[4*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "f3f57675c504f15a7d091e33ac0140a7",
+      "smiles": "O=C(NCCc1ccccc1)c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "ff483e90f876240fbd831fcc7c4b3c54",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C[8*]",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "7e60aedce88a20eab3591f9ee68f04c5",
+      "smiles": "[4*][C@@H](CC(C)C)B(O)O",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "b23605562c55deae0713e1e49c3ef90e",
+      "smiles": "[14*]c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 78,
+      "avg_pKi": 7.75
+    },
+    {
+      "hash": "d697e25e11fc7d015d44a9b28eb9f7f0",
+      "smiles": "[7*]C1C(=O)OC[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "28b8e01ca5e1a19c336dec72762e125d",
+      "smiles": "[7*]CC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8445e47e3713e67afc2ccda25fb138ed",
+      "smiles": "C=C1CC[C@@H]2CCCCC2[C@@H]1C/C=C1\\CCOC1=O",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

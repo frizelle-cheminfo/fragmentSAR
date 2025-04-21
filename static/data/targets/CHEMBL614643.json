@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL614643",
+  "name": "HOP-62",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614643",
+  "molecules": [
+    {
+      "id": "CHEMBL299613",
+      "name": "2-METHOXYESTRADIOL",
+      "smiles": "COc1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12",
+      "bioactivity_type": "GI50",
+      "bioactivity_value": 700.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "95860af48200ae1ad019923060ed5a37",
+      "smiles": "[16*]c1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12",
+      "count": 30,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 30,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 30,
+      "avg_pKi": 6.15
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "95860af48200ae1ad019923060ed5a37",
+      "smiles": "[16*]c1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12",
+      "count": 30,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 30,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 30,
+      "avg_pKi": 6.15
+    }
+  ]
+}

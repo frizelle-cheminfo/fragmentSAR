@@ -1,0 +1,101 @@
+{
+  "id": "CHEMBL5401",
+  "name": "Signal transducer and activator of transcription 6",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5401",
+  "molecules": [
+    {
+      "id": "CHEMBL477",
+      "name": "ADENOSINE",
+      "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "Km",
+      "bioactivity_value": 42000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 38,
+      "avg_pKi": 4.38
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    }
+  ]
+}

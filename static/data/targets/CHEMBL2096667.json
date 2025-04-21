@@ -1,0 +1,137 @@
+{
+  "id": "CHEMBL2096667",
+  "name": "c-Jun N-terminal kinase, JNK",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2096667",
+  "molecules": [
+    {
+      "id": "CHEMBL119385",
+      "name": "NEFLAMAPIMOD",
+      "smiles": "O=c1ncn2nc(Sc3ccc(F)cc3F)ccc2c1-c1c(Cl)cccc1Cl",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 22.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL217092",
+      "name": "SARACATINIB",
+      "smiles": "CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2.7,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0d380ad5817371b44f40c35f782f565b",
+      "smiles": "[14*]c1ccc2c([16*])c(=O)ncn2n1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "e42159e645db678471737bd6b3e8a846",
+      "smiles": "O=c1ncn2nc(Sc3ccccc3)ccc2c1-c1ccccc1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "4a4783da92d4b12452d885bd637ea95e",
+      "smiles": "[16*]c1c(Cl)cccc1Cl",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "28fa9a1a50798f55de9afff624b15b4f",
+      "smiles": "[4*]CC[4*]",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "c95bacbc5c09f7676662f4b748a4eef9",
+      "smiles": "[15*]C1CCOCC1",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "db31e012dce2d059b14944fc04f81ac3",
+      "smiles": "[16*]c1c(Cl)ccc2c1OCO2",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "bc760c11c0a649db142668ed1b55b818",
+      "smiles": "[14*]c1ncnc2cc([16*])cc([16*])c12",
+      "count": 39,
+      "avg_pKi": 8.57
+    },
+    {
+      "hash": "338a19bb12e6cf5252753f5f3149be20",
+      "smiles": "c1cc(Nc2ncnc3cc(OCCN4CCNCC4)cc(OC4CCOCC4)c23)c2c(c1)OCO2",
+      "count": 39,
+      "avg_pKi": 8.57
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0d380ad5817371b44f40c35f782f565b",
+      "smiles": "[14*]c1ccc2c([16*])c(=O)ncn2n1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "e42159e645db678471737bd6b3e8a846",
+      "smiles": "O=c1ncn2nc(Sc3ccccc3)ccc2c1-c1ccccc1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "4a4783da92d4b12452d885bd637ea95e",
+      "smiles": "[16*]c1c(Cl)cccc1Cl",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 39,
+      "avg_pKi": 7.66
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "CHEMBL4483269",
+  "name": "SUM-159-PT",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4483269",
+  "molecules": [
+    {
+      "id": "CHEMBL98",
+      "name": "VORINOSTAT",
+      "smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL554",
+      "name": "LAPATINIB",
+      "smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 78,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf435e0e272ab45c6c94fdb752a4576a",
+      "smiles": "[4*]CCS(C)(=O)=O",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "e586f6fb5e219e4b5f5d76026ae65e3a",
+      "smiles": "c1ccc(COc2ccc(Nc3ncnc4ccc(-c5ccco5)cc34)cc2)cc1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "a6c73ea7bdd4f45ee7382374fbd311f4",
+      "smiles": "[14*]c1ccc([14*])o1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "a6cf3c1e3999aba49567cd555fad6422",
+      "smiles": "[16*]c1ccc([16*])c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "77af2c93a3ff3a83831f8cf6f9f85725",
+      "smiles": "[16*]c1cccc(F)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "69e7ec70c7f2dcbc28befa13216ad261",
+      "smiles": "[14*]c1ncnc2ccc([16*])cc12",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 78,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf435e0e272ab45c6c94fdb752a4576a",
+      "smiles": "[4*]CCS(C)(=O)=O",
+      "count": 39,
+      "avg_pKi": 8.0
+    }
+  ]
+}

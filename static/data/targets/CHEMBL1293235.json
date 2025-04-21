@@ -1,0 +1,125 @@
+{
+  "id": "CHEMBL1293235",
+  "name": "Prelamin-A/C",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1293235",
+  "molecules": [
+    {
+      "id": "CHEMBL177",
+      "name": "AMIKACIN",
+      "smiles": "NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O",
+      "bioactivity_type": "C50",
+      "bioactivity_value": 0.21,
+      "bioactivity_units": "uM"
+    },
+    {
+      "id": "CHEMBL135",
+      "name": "ESTRADIOL",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1.5,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "fc3c7d37d836fddef8c7bbef622c24ad",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a1cd37eb3cb93129848263be46522a1e",
+      "smiles": "C1CC[C@@H](O[C@@H]2CCC[C@H](O[C@@H]3CCCCO3)C2)OC1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f47eabd0c02eddd3e6e4c6931ec463b1",
+      "smiles": "[13*][C@H]1O[C@H]([13*])[C@@H](O)[C@H](O)[C@H]1O",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1f312cb50f0a7dc503c0e3ecdf167b7a",
+      "smiles": "[13*][C@H]1O[C@H]([13*])[C@@H](O)[C@H](N)[C@H]1O",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "534f4ed81849051c2e3f092094000f60",
+      "smiles": "[15*][C@@H]1[C@@H](O)[C@H]([15*])[C@@H](N)C[C@H]1[15*]",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0be83dd08e3466a006ce1b85ee6b0ba4",
+      "smiles": "[1*]C(=O)[C@@H](O)CCN",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "b7fded26f0e30f04f5249dcaa9444829",
+      "smiles": "[8*]CN",
+      "count": 13,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "fc3c7d37d836fddef8c7bbef622c24ad",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 13,
+      "avg_pKi": null
+    }
+  ]
+}

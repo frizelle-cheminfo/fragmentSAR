@@ -1,0 +1,155 @@
+{
+  "id": "CHEMBL5910",
+  "name": "Aurora kinase A-interacting protein",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5910",
+  "molecules": [
+    {
+      "id": "CHEMBL601719",
+      "name": "CRIZOTINIB",
+      "smiles": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 8.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL572878",
+      "name": "TOZASERTIB",
+      "smiles": "Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)n[nH]1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.6,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4b476c4c722d6240e0931354eb3d17e2",
+      "smiles": "[9*]n1cc([16*])cn1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "0352a7edf4e79ffe3f5f7bff38bb23fc",
+      "smiles": "c1ccc(COc2cncc(-c3cnn(C4CCNCC4)c3)c2)cc1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "e9a0ab62d7e94cde9bf99c4c5f703cd2",
+      "smiles": "O=C(Nc1ccc(Sc2nc(Nc3cc[nH]n3)cc(N3CCNCC3)n2)cc1)C1CC1",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "f02e2cc3e57cc5ab2aeec888ec6547fb",
+      "smiles": "[14*]c1cc([14*])nc([14*])n1",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "f0615d0264807d4f2b0914e8d5109906",
+      "smiles": "[14*]c1cc(C)[nH]n1",
+      "count": 39,
+      "avg_pKi": 9.22
+    },
+    {
+      "hash": "6119a905d4056b40ea717208004955a3",
+      "smiles": "[15*]C1CC1",
+      "count": 39,
+      "avg_pKi": 9.22
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    }
+  ]
+}

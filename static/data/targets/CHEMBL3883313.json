@@ -1,0 +1,107 @@
+{
+  "id": "CHEMBL3883313",
+  "name": "Perilipin-1/ABHD5",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3883313",
+  "molecules": [
+    {
+      "id": "CHEMBL12856",
+      "name": "INAMRINONE",
+      "smiles": "Nc1cc(-c2ccncc2)c[nH]c1=O",
+      "bioactivity_type": "Mean ED50",
+      "bioactivity_value": 0.389,
+      "bioactivity_units": "mg kg-1"
+    },
+    {
+      "id": "CHEMBL456",
+      "name": "ETHACRYNIC ACID",
+      "smiles": "C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl",
+      "bioactivity_type": "mequiv of Na+/kg",
+      "bioactivity_value": 4.14,
+      "bioactivity_units": "0-5h"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "9a31ce378e860314d7d5be322c37cadc",
+      "smiles": "[16*]c1c[nH]c(=O)c(N)c1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0aa86ba4edaaee94e5bbc0efc8c09c0e",
+      "smiles": "O=c1ccc(-c2ccncc2)c[nH]1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "614e2457ce6bc97528dfe76a67d2c8a8",
+      "smiles": "[6*]C(=O)C(=C)CC",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a69ff46d4bd1fe617727c00843f4991e",
+      "smiles": "[16*]c1ccc([16*])c(Cl)c1Cl",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ea352b2ef37e1b90c728c67dba964637",
+      "smiles": "[4*]CC(=O)O",
+      "count": 20,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "9a31ce378e860314d7d5be322c37cadc",
+      "smiles": "[16*]c1c[nH]c(=O)c(N)c1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0aa86ba4edaaee94e5bbc0efc8c09c0e",
+      "smiles": "O=c1ccc(-c2ccncc2)c[nH]1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "614e2457ce6bc97528dfe76a67d2c8a8",
+      "smiles": "[6*]C(=O)C(=C)CC",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    }
+  ]
+}

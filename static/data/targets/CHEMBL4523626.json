@@ -1,0 +1,93 @@
+{
+  "id": "CHEMBL4523626",
+  "name": "PDE5A/PDE6C",
+  "organism": "Homo sapiens",
+  "target_type": "CHIMERIC PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4523626",
+  "molecules": [
+    {
+      "id": "CHEMBL192",
+      "name": "SILDENAFIL",
+      "smiles": "CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12",
+      "bioactivity_type": "Pc",
+      "bioactivity_value": 87000000.0,
+      "bioactivity_units": "cm s-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "8c6cfd506f2f01797070c728bf031819",
+      "smiles": "[12*]S(=O)(=O)c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8463c9c1ed07daca717b015aaa3bbda4",
+      "smiles": "O=c1[nH]c(-c2cccc(S(=O)(=O)N3CCNCC3)c2)nc2cn[nH]c12",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3faa90aa9210135d564707639f162863",
+      "smiles": "[8*]CCC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4fa3cb9e033b1700e1ed5ad5650367db",
+      "smiles": "[14*]c1nc2c([14*])nn(C)c2c(=O)[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "8c6cfd506f2f01797070c728bf031819",
+      "smiles": "[12*]S(=O)(=O)c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8463c9c1ed07daca717b015aaa3bbda4",
+      "smiles": "O=c1[nH]c(-c2cccc(S(=O)(=O)N3CCNCC3)c2)nc2cn[nH]c12",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3faa90aa9210135d564707639f162863",
+      "smiles": "[8*]CCC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

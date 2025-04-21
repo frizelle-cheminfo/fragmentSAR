@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL4543887",
+  "name": "HepG2-CD81",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4543887",
+  "molecules": [
+    {
+      "id": "CHEMBL19224",
+      "name": "PAPAVERINE",
+      "smiles": "COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC",
+      "bioactivity_type": "Blood pressure",
+      "bioactivity_value": -23.0,
+      "bioactivity_units": "mmHg"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf1bd179a845c4f5ca298068df7eff56",
+      "smiles": "c1ccc(Cc2nccc3ccccc23)cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8482246e7c2ff14b622f9a36c68acec",
+      "smiles": "[14*]c1nccc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf1bd179a845c4f5ca298068df7eff56",
+      "smiles": "c1ccc(Cc2nccc3ccccc23)cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8482246e7c2ff14b622f9a36c68acec",
+      "smiles": "[14*]c1nccc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

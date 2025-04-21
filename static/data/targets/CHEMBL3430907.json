@@ -1,0 +1,77 @@
+{
+  "id": "CHEMBL3430907",
+  "name": "Aurora kinase B/Inner centromere protein",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN COMPLEX",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3430907",
+  "molecules": [
+    {
+      "id": "CHEMBL12856",
+      "name": "INAMRINONE",
+      "smiles": "Nc1cc(-c2ccncc2)c[nH]c1=O",
+      "bioactivity_type": "Mean ED50",
+      "bioactivity_value": 0.389,
+      "bioactivity_units": "mg kg-1"
+    },
+    {
+      "id": "CHEMBL189",
+      "name": "MILRINONE",
+      "smiles": "Cc1[nH]c(=O)c(C#N)cc1-c1ccncc1",
+      "bioactivity_type": "Mean ED50",
+      "bioactivity_value": 0.037,
+      "bioactivity_units": "mg kg-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0aa86ba4edaaee94e5bbc0efc8c09c0e",
+      "smiles": "O=c1ccc(-c2ccncc2)c[nH]1",
+      "count": 62,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 62,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2ad561f35cba0cb01f84aee0e92a547c",
+      "smiles": "[16*]c1cc(C#N)c(=O)[nH]c1C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9a31ce378e860314d7d5be322c37cadc",
+      "smiles": "[16*]c1c[nH]c(=O)c(N)c1",
+      "count": 23,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0aa86ba4edaaee94e5bbc0efc8c09c0e",
+      "smiles": "O=c1ccc(-c2ccncc2)c[nH]1",
+      "count": 62,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 62,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2ad561f35cba0cb01f84aee0e92a547c",
+      "smiles": "[16*]c1cc(C#N)c(=O)[nH]c1C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9a31ce378e860314d7d5be322c37cadc",
+      "smiles": "[16*]c1c[nH]c(=O)c(N)c1",
+      "count": 23,
+      "avg_pKi": null
+    }
+  ]
+}

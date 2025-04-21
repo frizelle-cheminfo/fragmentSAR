@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL613852",
+  "name": "CAKI-2",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL613852",
+  "molecules": [
+    {
+      "id": "CHEMBL477772",
+      "name": "PAZOPANIB",
+      "smiles": "Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "1660bace57c1dc9861e42d5d66dfb4c6",
+      "smiles": "[16*]c1ccc(C)c(S(N)(=O)=O)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "b481a8988a828dd6be88eefbc0d2b3c6",
+      "smiles": "[14*]c1ccnc([14*])n1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "1f7c7b0fc4ee7d5d054dc55a4fa648ee",
+      "smiles": "[16*]c1ccc2c(C)n(C)nc2c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "df5713ded7083831be0a68030dd7d606",
+      "smiles": "c1ccc(Nc2nccc(Nc3ccc4c[nH]nc4c3)n2)cc1",
+      "count": 39,
+      "avg_pKi": 8.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "1660bace57c1dc9861e42d5d66dfb4c6",
+      "smiles": "[16*]c1ccc(C)c(S(N)(=O)=O)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "b481a8988a828dd6be88eefbc0d2b3c6",
+      "smiles": "[14*]c1ccnc([14*])n1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "1f7c7b0fc4ee7d5d054dc55a4fa648ee",
+      "smiles": "[16*]c1ccc2c(C)n(C)nc2c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 8.0
+    }
+  ]
+}

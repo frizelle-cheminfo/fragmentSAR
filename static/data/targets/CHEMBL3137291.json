@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL3137291",
+  "name": "DNMT3A2/3L complex",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN COMPLEX",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3137291",
+  "molecules": [
+    {
+      "id": "CHEMBL44",
+      "name": "GENISTEIN",
+      "smiles": "O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "eaf80b67a714fa596acee1e92f0a563e",
+      "smiles": "[16*]c1coc2cc(O)cc(O)c2c1=O",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "14287e557d14324743bb44c5f4499413",
+      "smiles": "O=c1c(-c2ccccc2)coc2ccccc12",
+      "count": 39,
+      "avg_pKi": 6.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "eaf80b67a714fa596acee1e92f0a563e",
+      "smiles": "[16*]c1coc2cc(O)cc(O)c2c1=O",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "14287e557d14324743bb44c5f4499413",
+      "smiles": "O=c1c(-c2ccccc2)coc2ccccc12",
+      "count": 39,
+      "avg_pKi": 6.0
+    }
+  ]
+}

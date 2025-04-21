@@ -1,0 +1,121 @@
+{
+  "id": "CHEMBL5983",
+  "name": "Aldo-keto reductase family 1 member B10",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5983",
+  "molecules": [
+    {
+      "id": "CHEMBL145",
+      "name": "CAFFEIC ACID",
+      "smiles": "O=C(O)/C=C/c1ccc(O)c(O)c1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1200000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL8145",
+      "name": "DAIDZEIN",
+      "smiles": "O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12",
+      "bioactivity_type": "Suppression",
+      "bioactivity_value": 22.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 78,
+      "avg_pKi": 3.7
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "14287e557d14324743bb44c5f4499413",
+      "smiles": "O=c1c(-c2ccccc2)coc2ccccc12",
+      "count": 29,
+      "avg_pKi": null
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 29,
+      "avg_pKi": null
+    },
+    {
+      "hash": "5aefc6a4dd2d37d5ef85b8e6c5783df7",
+      "smiles": "[16*]c1coc2cc(O)ccc2c1=O",
+      "count": 29,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 78,
+      "avg_pKi": 3.7
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    }
+  ]
+}

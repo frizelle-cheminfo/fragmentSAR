@@ -1,0 +1,99 @@
+{
+  "id": "CHEMBL2073685",
+  "name": "Solute carrier organic anion transporter family member 3A1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2073685",
+  "molecules": [
+    {
+      "id": "CHEMBL34259",
+      "name": "METHOTREXATE",
+      "smiles": "CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1",
+      "bioactivity_type": "ID50",
+      "bioactivity_value": 6.2,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "c8516a4ae5af507eac94831d48786ba9",
+      "smiles": "c1ccc(NCc2cnc3ncncc3n2)cc1",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "87bd9dbf063e3a930fda2ed48ba19e2e",
+      "smiles": "[4*][C@@H](CCC(=O)O)C(=O)O",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "0045b081da414c0b993e897b81752e44",
+      "smiles": "[14*]c1cnc2nc(N)nc(N)c2n1",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 8.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "c8516a4ae5af507eac94831d48786ba9",
+      "smiles": "c1ccc(NCc2cnc3ncncc3n2)cc1",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 8.21
+    }
+  ]
+}

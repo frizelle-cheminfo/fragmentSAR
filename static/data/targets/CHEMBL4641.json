@@ -1,0 +1,161 @@
+{
+  "id": "CHEMBL4641",
+  "name": "Voltage-gated T-type calcium channel alpha-1G subunit",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4641",
+  "molecules": [
+    {
+      "id": "CHEMBL30008",
+      "name": "FLUNARIZINE",
+      "smiles": "Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 290.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL45816",
+      "name": "MIBEFRADIL",
+      "smiles": "COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 86.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "a74b3f1c04148856d9fe053dd431c2d7",
+      "smiles": "[5*]N1CCN([5*])CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "db0d3de5f8f724dfd26436f8f5c7ac4c",
+      "smiles": "C(=C/c1ccccc1)\\CN1CCN(C(c2ccccc2)c2ccccc2)CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "cea745183425ea1f8f19099eecf8ef15",
+      "smiles": "[4*]C([8*])[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "cca97f8b1dc1b8715f0b52bf21cec7d1",
+      "smiles": "[4*]CC[7*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "b3c49bd868216229c96e3f4cdd9791a7",
+      "smiles": "[16*]c1ccc(F)cc1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "25e66adf61ba6e2bfb0a723cfc5bde06",
+      "smiles": "c1ccc2c(c1)CCC(CCNCCCc1nc3ccccc3[nH]1)C2",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "483527b87874a3d311e0325f0c332ea9",
+      "smiles": "[4*]CCC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "77fa44d32667ae1b415fe674abe8661c",
+      "smiles": "[4*]CC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7f052018811bff8f9ab5e7231fd7fe81",
+      "smiles": "[1*]C(=O)C[4*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0bae076f78703b0e3d695cfe4b12eb20",
+      "smiles": "[14*]c1nc2ccccc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4fda5ed2f7cccf11e14bb85df084c620",
+      "smiles": "[4*][C@]1([15*])CCc2cc(F)ccc2[C@@H]1C(C)C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "506632627f05cb43c4e07d0e3edeec6c",
+      "smiles": "[15*]C1([15*])CCc2cc(F)ccc2[C@@H]1C(C)C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "a74b3f1c04148856d9fe053dd431c2d7",
+      "smiles": "[5*]N1CCN([5*])CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "db0d3de5f8f724dfd26436f8f5c7ac4c",
+      "smiles": "C(=C/c1ccccc1)\\CN1CCN(C(c2ccccc2)c2ccccc2)CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "cea745183425ea1f8f19099eecf8ef15",
+      "smiles": "[4*]C([8*])[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    }
+  ]
+}

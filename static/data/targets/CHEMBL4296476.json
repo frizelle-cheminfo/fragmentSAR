@@ -1,0 +1,99 @@
+{
+  "id": "CHEMBL4296476",
+  "name": "NCI-H3255",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4296476",
+  "molecules": [
+    {
+      "id": "CHEMBL939",
+      "name": "GEFITINIB",
+      "smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 515.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "68a0dd22b8c1bb0041923def84bb5e6f",
+      "smiles": "[16*]c1ccc(F)c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "b039bf6d28e8d526b2615ea5217be352",
+      "smiles": "[14*]c1ncnc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "2d07a29a4430b8e201faa19e808721a2",
+      "smiles": "c1ccc(Nc2ncnc3ccc(OCCCN4CCOCC4)cc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "f9c102ced0c7e1ca55571c5ffbcaeae8",
+      "smiles": "[4*]CCC[4*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.29
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "68a0dd22b8c1bb0041923def84bb5e6f",
+      "smiles": "[16*]c1ccc(F)c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "b039bf6d28e8d526b2615ea5217be352",
+      "smiles": "[14*]c1ncnc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": 6.29
+    },
+    {
+      "hash": "2d07a29a4430b8e201faa19e808721a2",
+      "smiles": "c1ccc(Nc2ncnc3ccc(OCCCN4CCOCC4)cc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.29
+    }
+  ]
+}

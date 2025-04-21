@@ -1,0 +1,93 @@
+{
+  "id": "CHEMBL1938217",
+  "name": "Mixed lineage kinase domain-like protein",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1938217",
+  "molecules": [
+    {
+      "id": "CHEMBL601719",
+      "name": "CRIZOTINIB",
+      "smiles": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 8.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4b476c4c722d6240e0931354eb3d17e2",
+      "smiles": "[9*]n1cc([16*])cn1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "0352a7edf4e79ffe3f5f7bff38bb23fc",
+      "smiles": "c1ccc(COc2cncc(-c3cnn(C4CCNCC4)c3)c2)cc1",
+      "count": 39,
+      "avg_pKi": 8.1
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    }
+  ]
+}

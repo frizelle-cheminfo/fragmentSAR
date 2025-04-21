@@ -1,0 +1,125 @@
+{
+  "id": "CHEMBL5869",
+  "name": "Heat shock factor protein 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5869",
+  "molecules": [
+    {
+      "id": "CHEMBL558752",
+      "name": "RAF-265",
+      "smiles": "Cn1c(Nc2ccc(C(F)(F)F)cc2)nc2cc(Oc3ccnc(-c4ncc(C(F)(F)F)[nH]4)c3)ccc21",
+      "bioactivity_type": "Kd",
+      "bioactivity_value": 10000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "9d830204185e5412bc37ae638b427669",
+      "smiles": "[14*]c1cc([16*])ccn1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "41f2173de745a6959a8a242679478a7c",
+      "smiles": "[8*]C(F)(F)F",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "e3c7a134e508b4a02639ee7daadeab32",
+      "smiles": "c1ccc(Nc2nc3cc(Oc4ccnc(-c5ncc[nH]5)c4)ccc3[nH]2)cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "93170d1114393e8c477d6031c1a606a7",
+      "smiles": "[14*]c1nc2cc([16*])ccc2n1C",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "0721156b1a1081d6ed2f100a89a95f62",
+      "smiles": "[14*]c1cnc([14*])[nH]1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "9d830204185e5412bc37ae638b427669",
+      "smiles": "[14*]c1cc([16*])ccn1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "41f2173de745a6959a8a242679478a7c",
+      "smiles": "[8*]C(F)(F)F",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "e3c7a134e508b4a02639ee7daadeab32",
+      "smiles": "c1ccc(Nc2nc3cc(Oc4ccnc(-c5ncc[nH]5)c4)ccc3[nH]2)cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    }
+  ]
+}

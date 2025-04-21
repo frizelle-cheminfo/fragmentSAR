@@ -1,0 +1,133 @@
+{
+  "id": "CHEMBL1961788",
+  "name": "Nuclear receptor subfamily 2 group E member 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1961788",
+  "molecules": [
+    {
+      "id": "CHEMBL113",
+      "name": "CAFFEINE",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "bioactivity_type": "Vdss",
+      "bioactivity_value": 0.61,
+      "bioactivity_units": "L.kg-1"
+    },
+    {
+      "id": "CHEMBL779",
+      "name": "TADALAFIL",
+      "smiles": "CN1CC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@@H]2C1=O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 6.7,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL24",
+      "name": "ATENOLOL",
+      "smiles": "CC(C)NCC(O)COc1ccc(CC(N)=O)cc1",
+      "bioactivity_type": "Pc",
+      "bioactivity_value": 1000000.0,
+      "bioactivity_units": "cm s-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "164d0e852f3b086d0b6fc38818e825d7",
+      "smiles": "O=C1NCC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@H]12",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "feab9d2d5d868a8963a39cac34576ee3",
+      "smiles": "CN1CC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@@H]2C1=O",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "f16fda3236818ab407442a697f2318eb",
+      "smiles": "[8*]CC(N)=O",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "08e9aebde0e73c4f76299fc179cf4a1b",
+      "smiles": "[4*]CC(O)C[4*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "40cccadb6f852d68d3b37d93797430ce",
+      "smiles": "[4*]C(C)C",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8f0563e2a5e643e0dcaa4731d0936122",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "count": 5,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 5,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "164d0e852f3b086d0b6fc38818e825d7",
+      "smiles": "O=C1NCC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@H]12",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "feab9d2d5d868a8963a39cac34576ee3",
+      "smiles": "CN1CC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@@H]2C1=O",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "f16fda3236818ab407442a697f2318eb",
+      "smiles": "[8*]CC(N)=O",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "08e9aebde0e73c4f76299fc179cf4a1b",
+      "smiles": "[4*]CC(O)C[4*]",
+      "count": 16,
+      "avg_pKi": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL2095198",
+  "name": "Sulfonylurea receptor 2, Kir6.2",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN COMPLEX",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2095198",
+  "molecules": [
+    {
+      "id": "CHEMBL1159",
+      "name": "PINACIDIL ANHYDROUS",
+      "smiles": "CC(N/C(=N\\C#N)Nc1ccncc1)C(C)(C)C",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 800.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "e6a980559546e21fc3615da87247a563",
+      "smiles": "[4*]C(C)C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "404e5649d222380c64728ae9c41a21df",
+      "smiles": "[5*]NC(=NC#N)N[5*]",
+      "count": 39,
+      "avg_pKi": 6.1
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "e6a980559546e21fc3615da87247a563",
+      "smiles": "[4*]C(C)C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "404e5649d222380c64728ae9c41a21df",
+      "smiles": "[5*]NC(=NC#N)N[5*]",
+      "count": 39,
+      "avg_pKi": 6.1
+    }
+  ]
+}

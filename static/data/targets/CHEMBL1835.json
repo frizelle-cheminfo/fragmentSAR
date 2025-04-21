@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL1835",
+  "name": "Thromboxane-A synthase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1835",
+  "molecules": [
+    {
+      "id": "CHEMBL1370561",
+      "name": "AMINOPHYLLINE",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 16700.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "b5fcc3660619646362bd4e2d962cd749",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN",
+      "count": 22,
+      "avg_pKi": 4.78
+    },
+    {
+      "hash": "acd852d4b5cf37f290d3d17c44081c75",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1.O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 22,
+      "avg_pKi": 4.78
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "b5fcc3660619646362bd4e2d962cd749",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN",
+      "count": 22,
+      "avg_pKi": 4.78
+    },
+    {
+      "hash": "acd852d4b5cf37f290d3d17c44081c75",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1.O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 22,
+      "avg_pKi": 4.78
+    }
+  ]
+}

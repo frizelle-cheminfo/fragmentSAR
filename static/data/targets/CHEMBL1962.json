@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL1962",
+  "name": "GABA receptor alpha-1 subunit",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1962",
+  "molecules": [
+    {
+      "id": "CHEMBL259084",
+      "name": "MLN-8054",
+      "smiles": "O=C(O)c1ccc(Nc2ncc3c(n2)-c2ccc(Cl)cc2C(c2c(F)cccc2F)=NC3)cc1",
+      "bioactivity_type": "Activity",
+      "bioactivity_value": 39.7,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d7687e08d8793605308efe485269f4f7",
+      "smiles": "[14*]c1ncc2c(n1)-c1ccc(Cl)cc1C(c1c(F)cccc1F)=NC2",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "5861934813c287df28eca800e71b0135",
+      "smiles": "c1ccc(Nc2ncc3c(n2)-c2ccccc2C(c2ccccc2)=NC3)cc1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d7687e08d8793605308efe485269f4f7",
+      "smiles": "[14*]c1ncc2c(n1)-c1ccc(Cl)cc1C(c1c(F)cccc1F)=NC2",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "5861934813c287df28eca800e71b0135",
+      "smiles": "c1ccc(Nc2ncc3c(n2)-c2ccccc2C(c2ccccc2)=NC3)cc1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

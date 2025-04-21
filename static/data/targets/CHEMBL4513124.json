@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL4513124",
+  "name": "CuFi-1",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4513124",
+  "molecules": [
+    {
+      "id": "CHEMBL1029",
+      "name": "MIGLUSTAT",
+      "smiles": "CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2100.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "26622380d7660ece526502eaa942a1b7",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "6531895d62e6241f849046f169f929a7",
+      "smiles": "[4*]CCCC",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": 5.68
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "26622380d7660ece526502eaa942a1b7",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "6531895d62e6241f849046f169f929a7",
+      "smiles": "[4*]CCCC",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": 5.68
+    }
+  ]
+}

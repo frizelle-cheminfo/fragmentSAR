@@ -1,0 +1,127 @@
+{
+  "id": "CHEMBL4523986",
+  "name": "Cytochrome P450",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4523986",
+  "molecules": [
+    {
+      "id": "CHEMBL44",
+      "name": "GENISTEIN",
+      "smiles": "O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL106",
+      "name": "FLUCONAZOLE",
+      "smiles": "OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F",
+      "bioactivity_type": "IC80",
+      "bioactivity_value": 2.8,
+      "bioactivity_units": "ug ml-1"
+    },
+    {
+      "id": "CHEMBL8260",
+      "name": "BAICALEIN",
+      "smiles": "O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 57.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "eaf80b67a714fa596acee1e92f0a563e",
+      "smiles": "[16*]c1coc2cc(O)cc(O)c2c1=O",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "14287e557d14324743bb44c5f4499413",
+      "smiles": "O=c1c(-c2ccccc2)coc2ccccc12",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "2f05bcaee75eb45262030a06de2227cd",
+      "smiles": "[14*]c1cc(=O)c2c(O)c(O)c(O)cc2o1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "6d7ba99bdccf7bfcd6d4121566f4c14e",
+      "smiles": "c1ccc(C(Cn2cncn2)Cn2cncn2)cc1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7a5f147fdc9fe9ac780a4aab93f76bdb",
+      "smiles": "[9*]n1cncn1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4dec6dc02eb1a200dc39a6028202544d",
+      "smiles": "[8*]CC([8*])(O)C[8*]",
+      "count": 13,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "eaf80b67a714fa596acee1e92f0a563e",
+      "smiles": "[16*]c1coc2cc(O)cc(O)c2c1=O",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "14287e557d14324743bb44c5f4499413",
+      "smiles": "O=c1c(-c2ccccc2)coc2ccccc12",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "2f05bcaee75eb45262030a06de2227cd",
+      "smiles": "[14*]c1cc(=O)c2c(O)c(O)c(O)cc2o1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

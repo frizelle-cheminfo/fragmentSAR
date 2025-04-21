@@ -1,0 +1,143 @@
+{
+  "id": "CHEMBL1973",
+  "name": "Tyrosinase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1973",
+  "molecules": [
+    {
+      "id": "CHEMBL32749",
+      "name": "FERULATE",
+      "smiles": "COc1cc(/C=C/C(=O)O)ccc1O",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 12.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL145",
+      "name": "CAFFEIC ACID",
+      "smiles": "O=C(O)/C=C/c1ccc(O)c(O)c1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1200000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL1009",
+      "name": "LEVODOPA",
+      "smiles": "N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 900000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL301523",
+      "name": "PHENYLALANINE",
+      "smiles": "N[C@@H](Cc1ccccc1)C(=O)O",
+      "bioactivity_type": "Solubility",
+      "bioactivity_value": 245000.0,
+      "bioactivity_units": "ug.mL-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 124,
+      "avg_pKi": 2.98
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 117,
+      "avg_pKi": 3.48
+    },
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 73,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 51,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 51,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e2be5cd0b8bbe3831bbd283242ca89ce",
+      "smiles": "[16*]c1ccc(O)c([16*])c1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 12,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 124,
+      "avg_pKi": 2.98
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 117,
+      "avg_pKi": 3.48
+    },
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 73,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 51,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 51,
+      "avg_pKi": 2.92
+    }
+  ]
+}

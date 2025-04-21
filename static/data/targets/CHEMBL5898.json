@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL5898",
+  "name": "Lactoperoxidase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5898",
+  "molecules": [
+    {
+      "id": "CHEMBL508102",
+      "name": "CARBIMAZOLE",
+      "smiles": "CCOC(=O)n1ccn(C)c1=S",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10400.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "c53ff2f4443b98409d2484a8f4bfd65f",
+      "smiles": "S=c1[nH]cc[nH]1",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "fc48371bf7abe8fd4e388a407830eb2f",
+      "smiles": "[1*]C(=O)n1ccn(C)c1=S",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": 4.98
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "c53ff2f4443b98409d2484a8f4bfd65f",
+      "smiles": "S=c1[nH]cc[nH]1",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "fc48371bf7abe8fd4e388a407830eb2f",
+      "smiles": "[1*]C(=O)n1ccn(C)c1=S",
+      "count": 16,
+      "avg_pKi": 4.98
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": 4.98
+    }
+  ]
+}

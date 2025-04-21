@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL5618",
+  "name": "Aryl hydrocarbon receptor nuclear translocator",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5618",
+  "molecules": [
+    {
+      "id": "CHEMBL50588",
+      "name": "EMETINE",
+      "smiles": "CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 40.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "0ade04f0683732b1774cfeab503ca080",
+      "smiles": "[15*][C@H]1C[C@H]2c3cc([16*])c([16*])cc3CCN2C[C@@H]1[15*]",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "01db06463acf5354e5d3926b2235398c",
+      "smiles": "[8*]C[C@H]1NCCc2cc([16*])c([16*])cc21",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "71f5b71676ee6a8751ad18d90a91fca9",
+      "smiles": "c1ccc2c(c1)CCN[C@@H]2C[C@@H]1CCN2CCc3ccccc3[C@@H]2C1",
+      "count": 16,
+      "avg_pKi": 7.4
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "0ade04f0683732b1774cfeab503ca080",
+      "smiles": "[15*][C@H]1C[C@H]2c3cc([16*])c([16*])cc3CCN2C[C@@H]1[15*]",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "01db06463acf5354e5d3926b2235398c",
+      "smiles": "[8*]C[C@H]1NCCc2cc([16*])c([16*])cc21",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 16,
+      "avg_pKi": 7.4
+    },
+    {
+      "hash": "71f5b71676ee6a8751ad18d90a91fca9",
+      "smiles": "c1ccc2c(c1)CCN[C@@H]2C[C@@H]1CCN2CCc3ccccc3[C@@H]2C1",
+      "count": 16,
+      "avg_pKi": 7.4
+    }
+  ]
+}

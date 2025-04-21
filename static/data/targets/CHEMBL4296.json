@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL4296",
+  "name": "Sodium channel protein type IX alpha subunit",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4296",
+  "molecules": [
+    {
+      "id": "CHEMBL629",
+      "name": "AMITRIPTYLINE",
+      "smiles": "CN(C)CCC=C1c2ccccc2CCc2ccccc21",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 61.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "5ce868de7f17ff0d6eac8c3a96470180",
+      "smiles": "[4*]CCC[7*]",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "0c81b89cc259e04be277b6e178318f04",
+      "smiles": "[7*]C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "62ae77ee46e86c24267c65ec880dd5be",
+      "smiles": "C=C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "5ce868de7f17ff0d6eac8c3a96470180",
+      "smiles": "[4*]CCC[7*]",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "0c81b89cc259e04be277b6e178318f04",
+      "smiles": "[7*]C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "62ae77ee46e86c24267c65ec880dd5be",
+      "smiles": "C=C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    }
+  ]
+}

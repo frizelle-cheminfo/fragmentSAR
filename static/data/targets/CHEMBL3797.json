@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL3797",
+  "name": "Serine-protein kinase ATM",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3797",
+  "molecules": [
+    {
+      "id": "CHEMBL1103",
+      "name": "FURAZOLIDONE",
+      "smiles": "O=C1OCCN1/N=C/c1ccc([N+](=O)[O-])o1",
+      "bioactivity_type": "MIC",
+      "bioactivity_value": 77400.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "68a3203562aae26aff92d31f2fd8ca51",
+      "smiles": "O=C1OCCN1/N=C/c1ccco1",
+      "count": 23,
+      "avg_pKi": 4.11
+    },
+    {
+      "hash": "e7c3914ab33e25bb20af87b182d4cfc8",
+      "smiles": "O=C1OCCN1/N=C/c1ccc([N+](=O)[O-])o1",
+      "count": 23,
+      "avg_pKi": 4.11
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "68a3203562aae26aff92d31f2fd8ca51",
+      "smiles": "O=C1OCCN1/N=C/c1ccco1",
+      "count": 23,
+      "avg_pKi": 4.11
+    },
+    {
+      "hash": "e7c3914ab33e25bb20af87b182d4cfc8",
+      "smiles": "O=C1OCCN1/N=C/c1ccc([N+](=O)[O-])o1",
+      "count": 23,
+      "avg_pKi": 4.11
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL3430888",
+  "name": "Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET",
+  "organism": "Homo sapiens",
+  "target_type": "CHIMERIC PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3430888",
+  "molecules": [
+    {
+      "id": "CHEMBL24828",
+      "name": "VANDETANIB",
+      "smiles": "COc1cc2/c(=N/c3ccc(Br)cc3F)nc[nH]c2cc1OCC1CCN(C)CC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 900.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ce8ddcd0bef3d8083d3f74161e45c1c3",
+      "smiles": "[15*]C1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "cb6b355d9d2dd46a4be0ee3fbe897547",
+      "smiles": "[16*]c1cc2[nH]cn/c(=N\\c3ccc(Br)cc3F)c2cc1[16*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "7d2d4ab5a32cf2ee3cad609cd88b212d",
+      "smiles": "c1ccc(/N=c2\\nc[nH]c3cc(OCC4CCNCC4)ccc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.05
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ce8ddcd0bef3d8083d3f74161e45c1c3",
+      "smiles": "[15*]C1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "cb6b355d9d2dd46a4be0ee3fbe897547",
+      "smiles": "[16*]c1cc2[nH]cn/c(=N\\c3ccc(Br)cc3F)c2cc1[16*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.05
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.05
+    }
+  ]
+}

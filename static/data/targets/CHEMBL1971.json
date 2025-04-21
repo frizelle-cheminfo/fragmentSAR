@@ -1,0 +1,95 @@
+{
+  "id": "CHEMBL1971",
+  "name": "Sulfonylurea receptor 2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1971",
+  "molecules": [
+    {
+      "id": "CHEMBL49035",
+      "name": "CROMAKALIM",
+      "smiles": "CC1(C)Oc2ccc(C#N)cc2C(N2CCCC2=O)C1O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1100.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL1159",
+      "name": "PINACIDIL ANHYDROUS",
+      "smiles": "CC(N/C(=N\\C#N)Nc1ccncc1)C(C)(C)C",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 800.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "1e31f3aa87f5e304a755880b397cc7c3",
+      "smiles": "CC1(C)Oc2ccc(C#N)cc2C(N2CCCC2=O)C1O",
+      "count": 39,
+      "avg_pKi": 5.96
+    },
+    {
+      "hash": "22870821897723c7d34e9d16e73905b0",
+      "smiles": "O=C1CCCN1C1CCOc2ccccc21",
+      "count": 39,
+      "avg_pKi": 5.96
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "e6a980559546e21fc3615da87247a563",
+      "smiles": "[4*]C(C)C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "404e5649d222380c64728ae9c41a21df",
+      "smiles": "[5*]NC(=NC#N)N[5*]",
+      "count": 39,
+      "avg_pKi": 6.1
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "1e31f3aa87f5e304a755880b397cc7c3",
+      "smiles": "CC1(C)Oc2ccc(C#N)cc2C(N2CCCC2=O)C1O",
+      "count": 39,
+      "avg_pKi": 5.96
+    },
+    {
+      "hash": "22870821897723c7d34e9d16e73905b0",
+      "smiles": "O=C1CCCN1C1CCOc2ccccc21",
+      "count": 39,
+      "avg_pKi": 5.96
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 6.1
+    },
+    {
+      "hash": "e6a980559546e21fc3615da87247a563",
+      "smiles": "[4*]C(C)C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 6.1
+    }
+  ]
+}

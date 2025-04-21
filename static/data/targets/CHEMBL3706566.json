@@ -1,0 +1,101 @@
+{
+  "id": "CHEMBL3706566",
+  "name": "MGC-803",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3706566",
+  "molecules": [
+    {
+      "id": "CHEMBL98",
+      "name": "VORINOSTAT",
+      "smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL314854",
+      "name": "FINGOLIMOD",
+      "smiles": "CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 6.1,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 70,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "cef8679f31159fc4b6cadab71a2f5c6f",
+      "smiles": "[8*]CCC(N)(CO)CO",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "66636a5cc7d52fbe847823895b5c6ded",
+      "smiles": "[8*]CCCCCCCC",
+      "count": 31,
+      "avg_pKi": 8.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 70,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    }
+  ]
+}

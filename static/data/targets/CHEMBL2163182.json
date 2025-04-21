@@ -1,0 +1,113 @@
+{
+  "id": "CHEMBL2163182",
+  "name": "NAD-dependent protein deacetylase sirtuin-6",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2163182",
+  "molecules": [
+    {
+      "id": "CHEMBL2220442",
+      "name": "FLUVASTATIN",
+      "smiles": "CC(C)n1c(/C=C/C(O)CC(O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 28.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "f712d98053a26b7be616005291aeddcc",
+      "smiles": "[7*]CC(O)CC(O)CC(=O)O",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "b3c49bd868216229c96e3f4cdd9791a7",
+      "smiles": "[16*]c1ccc(F)cc1",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "91ed34e847c139ccd4119e373ec2717e",
+      "smiles": "c1ccc(-c2c[nH]c3ccccc23)cc1",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "b7d9994ad15fd1702ff0c5b4edbe167c",
+      "smiles": "[9*]n1c([14*])c([16*])c2ccccc21",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "7f9eb2c3f0630d8351584e64dec6ed6b",
+      "smiles": "[8*]C(C)C",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 24,
+      "avg_pKi": 7.55
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "f712d98053a26b7be616005291aeddcc",
+      "smiles": "[7*]CC(O)CC(O)CC(=O)O",
+      "count": 24,
+      "avg_pKi": 7.55
+    },
+    {
+      "hash": "b3c49bd868216229c96e3f4cdd9791a7",
+      "smiles": "[16*]c1ccc(F)cc1",
+      "count": 24,
+      "avg_pKi": 7.55
+    }
+  ]
+}

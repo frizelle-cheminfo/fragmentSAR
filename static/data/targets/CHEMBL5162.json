@@ -1,0 +1,107 @@
+{
+  "id": "CHEMBL5162",
+  "name": "Neuropeptide S receptor",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5162",
+  "molecules": [
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL932",
+      "name": "DIPYRIDAMOLE",
+      "smiles": "OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 500.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "caea2381f407d36a67b976baa8d10ab6",
+      "smiles": "c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "de1a9909f08ea2f80818006dd965ee24",
+      "smiles": "[14*]c1nc([14*])c2nc([14*])nc([14*])c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": 6.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "caea2381f407d36a67b976baa8d10ab6",
+      "smiles": "c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 39,
+      "avg_pKi": 6.3
+    }
+  ]
+}

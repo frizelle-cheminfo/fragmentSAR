@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL1628484",
+  "name": "Amiloride-sensitive sodium channel subunit gamma",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1628484",
+  "molecules": [
+    {
+      "id": "CHEMBL945",
+      "name": "AMILORIDE",
+      "smiles": "N=C(N)NC(=O)c1nc(Cl)c(N)nc1N",
+      "bioactivity_type": "Pc",
+      "bioactivity_value": 780000.0,
+      "bioactivity_units": "cm s-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "77a2a698baa303b75166442d514cb788",
+      "smiles": "[14*]c1nc(Cl)c(N)nc1N",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "c4a0be1a5d3abc79758a312d8768c921",
+      "smiles": "c1cnccn1",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 38,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "77a2a698baa303b75166442d514cb788",
+      "smiles": "[14*]c1nc(Cl)c(N)nc1N",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "c4a0be1a5d3abc79758a312d8768c921",
+      "smiles": "c1cnccn1",
+      "count": 38,
+      "avg_pKi": null
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 38,
+      "avg_pKi": null
+    }
+  ]
+}

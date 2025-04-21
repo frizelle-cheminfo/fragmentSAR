@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL4633",
+  "name": "Voltage-gated potassium channel subunit Kv1.3",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4633",
+  "molecules": [
+    {
+      "id": "CHEMBL284348",
+      "name": "DALFAMPRIDINE",
+      "smiles": "Nc1ccncc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 2000000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    },
+    {
+      "hash": "6e8fe59ae0e0c280850740a88d9e60d5",
+      "smiles": "Nc1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    },
+    {
+      "hash": "6e8fe59ae0e0c280850740a88d9e60d5",
+      "smiles": "Nc1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    }
+  ]
+}

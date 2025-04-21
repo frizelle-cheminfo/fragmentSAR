@@ -1,0 +1,107 @@
+{
+  "id": "CHEMBL4296425",
+  "name": "HEL 92.1.7",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4296425",
+  "molecules": [
+    {
+      "id": "CHEMBL98",
+      "name": "VORINOSTAT",
+      "smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL305686",
+      "name": "CORDYCEPIN",
+      "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)C[C@H]1O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 0.5,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "abfbc4ae02e9c1414c33999365d5e370",
+      "smiles": "[13*][C@@H]1C[C@@H](O)[C@H]([13*])O1",
+      "count": 37,
+      "avg_pKi": 9.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 37,
+      "avg_pKi": 9.3
+    }
+  ]
+}

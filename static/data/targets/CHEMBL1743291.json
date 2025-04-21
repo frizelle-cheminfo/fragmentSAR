@@ -1,0 +1,95 @@
+{
+  "id": "CHEMBL1743291",
+  "name": "Sulfotransferase 1A1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1743291",
+  "molecules": [
+    {
+      "id": "CHEMBL112",
+      "name": "ACETAMINOPHEN",
+      "smiles": "CC(=O)Nc1ccc(O)cc1",
+      "bioactivity_type": "Vdss",
+      "bioactivity_value": 0.95,
+      "bioactivity_units": "L.kg-1"
+    },
+    {
+      "id": "CHEMBL135",
+      "name": "ESTRADIOL",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1.5,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "fc3c7d37d836fddef8c7bbef622c24ad",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 12,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "fc3c7d37d836fddef8c7bbef622c24ad",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 12,
+      "avg_pKi": null
+    }
+  ]
+}

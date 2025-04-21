@@ -1,0 +1,259 @@
+{
+  "id": "CHEMBL2096906",
+  "name": "Carbonic anhydrases; II & IX",
+  "organism": "Homo sapiens",
+  "target_type": "SELECTIVITY GROUP",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2096906",
+  "molecules": [
+    {
+      "id": "CHEMBL218490",
+      "name": "DORZOLAMIDE",
+      "smiles": "CCN[C@H]1C[C@H](C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 50000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL20",
+      "name": "ACETAZOLAMIDE",
+      "smiles": "CC(=O)Nc1nnc(S(N)(=O)=O)s1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 250.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL77517",
+      "name": "INDISULAM",
+      "smiles": "NS(=O)(=O)c1ccc(S(=O)(=O)Nc2cccc3c(Cl)c[nH]c23)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 30.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL21",
+      "name": "SULFANILAMIDE",
+      "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 28000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL19",
+      "name": "METHAZOLAMIDE",
+      "smiles": "CC(=O)/N=c1/sc(S(N)(=O)=O)nn1C",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 50.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL220491",
+      "name": "BRINZOLAMIDE",
+      "smiles": "CCN[C@H]1CN(CCCOC)S(=O)(=O)c2sc(S(N)(=O)=O)cc21",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 37.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL17",
+      "name": "DICHLORPHENAMIDE",
+      "smiles": "NS(=O)(=O)c1cc(Cl)c(Cl)c(S(N)(=O)=O)c1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 1200.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL18",
+      "name": "ETHOXZOLAMIDE",
+      "smiles": "CCOc1ccc2nc(S(N)(=O)=O)sc2c1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 25.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL419",
+      "name": "MAFENIDE",
+      "smiles": "NCc1ccc(S(N)(=O)=O)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 25000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 104,
+      "avg_pKi": 5.03
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 102,
+      "avg_pKi": 6.38
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 67,
+      "avg_pKi": 7.04
+    },
+    {
+      "hash": "9a112dd843b42365ff42e68f7adf4a05",
+      "smiles": "O=S1(=O)CCCc2ccsc21",
+      "count": 36,
+      "avg_pKi": 4.3
+    },
+    {
+      "hash": "584144b760193b0554a34d0a78189cfb",
+      "smiles": "[5*]N[C@H]1C[C@H](C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21",
+      "count": 36,
+      "avg_pKi": 4.3
+    },
+    {
+      "hash": "395ea4d5587c8a300f48065d8a5166e3",
+      "smiles": "[14*]c1nnc(S(N)(=O)=O)s1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "6965302f4d3955a05437a2caecd29ff2",
+      "smiles": "c1nncs1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "859ab440076b2e63d3f82a427c85b678",
+      "smiles": "NS(=O)(=O)c1cc(Cl)c(Cl)c(S(N)(=O)=O)c1",
+      "count": 35,
+      "avg_pKi": 5.92
+    },
+    {
+      "hash": "65cca72800eb97939a20f681a7ea8e5e",
+      "smiles": "[16*]c1ccc(S(N)(=O)=O)cc1",
+      "count": 35,
+      "avg_pKi": 4.6
+    },
+    {
+      "hash": "b7fded26f0e30f04f5249dcaa9444829",
+      "smiles": "[8*]CN",
+      "count": 35,
+      "avg_pKi": 4.6
+    },
+    {
+      "hash": "8c85da655bb067fd8ed2b710b8728cef",
+      "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+      "count": 34,
+      "avg_pKi": 4.55
+    },
+    {
+      "hash": "f9c102ced0c7e1ca55571c5ffbcaeae8",
+      "smiles": "[4*]CCC[4*]",
+      "count": 33,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 33,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "97a274766373381c6a59740ae8e07493",
+      "smiles": "[5*]N[C@H]1CN([5*])S(=O)(=O)c2sc(S(N)(=O)=O)cc21",
+      "count": 33,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "0be790047dec63602b1f9817411a4883",
+      "smiles": "O=S1(=O)NCCc2ccsc21",
+      "count": 33,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "eb669e3a80991fd8b191cdf45e0871d2",
+      "smiles": "c1ccc2scnc2c1",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "2acf2d6fbf20fc012db23c68f494cce6",
+      "smiles": "[16*]c1ccc2nc(S(N)(=O)=O)sc2c1",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "15aa5f5029bf77df02e3010cdd65f561",
+      "smiles": "O=S(=O)(Nc1cccc2cc[nH]c12)c1ccccc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "4a6cfc40839c34e2943bd3c371d28b28",
+      "smiles": "[16*]c1cccc2c(Cl)c[nH]c12",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "883c34f636aacaccf9f62b4a35070397",
+      "smiles": "[12*]S(=O)(=O)c1ccc(S(N)(=O)=O)cc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "6f149144f83f342154762a11e47500eb",
+      "smiles": "CC(=O)/N=c1/sc(S(N)(=O)=O)nn1C",
+      "count": 32,
+      "avg_pKi": 7.3
+    },
+    {
+      "hash": "28a7bce1def898f80d1861c1997e8751",
+      "smiles": "N=c1[nH]ncs1",
+      "count": 32,
+      "avg_pKi": 7.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 104,
+      "avg_pKi": 5.03
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 102,
+      "avg_pKi": 6.38
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 67,
+      "avg_pKi": 7.04
+    },
+    {
+      "hash": "9a112dd843b42365ff42e68f7adf4a05",
+      "smiles": "O=S1(=O)CCCc2ccsc21",
+      "count": 36,
+      "avg_pKi": 4.3
+    },
+    {
+      "hash": "584144b760193b0554a34d0a78189cfb",
+      "smiles": "[5*]N[C@H]1C[C@H](C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21",
+      "count": 36,
+      "avg_pKi": 4.3
+    }
+  ]
+}

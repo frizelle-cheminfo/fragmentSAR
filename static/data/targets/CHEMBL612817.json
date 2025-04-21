@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL612817",
+  "name": "YT-NU",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL612817",
+  "molecules": [
+    {
+      "id": "CHEMBL1009",
+      "name": "LEVODOPA",
+      "smiles": "N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 900000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 3.05
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 3.05
+    }
+  ]
+}

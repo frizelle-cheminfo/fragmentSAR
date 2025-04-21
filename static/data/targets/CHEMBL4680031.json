@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL4680031",
+  "name": "RNA-binding protein 39",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4680031",
+  "molecules": [
+    {
+      "id": "CHEMBL77517",
+      "name": "INDISULAM",
+      "smiles": "NS(=O)(=O)c1ccc(S(=O)(=O)Nc2cccc3c(Cl)c[nH]c23)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 30.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "15aa5f5029bf77df02e3010cdd65f561",
+      "smiles": "O=S(=O)(Nc1cccc2cc[nH]c12)c1ccccc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "4a6cfc40839c34e2943bd3c371d28b28",
+      "smiles": "[16*]c1cccc2c(Cl)c[nH]c12",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "883c34f636aacaccf9f62b4a35070397",
+      "smiles": "[12*]S(=O)(=O)c1ccc(S(N)(=O)=O)cc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "15aa5f5029bf77df02e3010cdd65f561",
+      "smiles": "O=S(=O)(Nc1cccc2cc[nH]c12)c1ccccc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "4a6cfc40839c34e2943bd3c371d28b28",
+      "smiles": "[16*]c1cccc2c(Cl)c[nH]c12",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 32,
+      "avg_pKi": 7.52
+    },
+    {
+      "hash": "883c34f636aacaccf9f62b4a35070397",
+      "smiles": "[12*]S(=O)(=O)c1ccc(S(N)(=O)=O)cc1",
+      "count": 32,
+      "avg_pKi": 7.52
+    }
+  ]
+}

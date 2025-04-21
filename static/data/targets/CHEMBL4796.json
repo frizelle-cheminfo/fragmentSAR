@@ -1,0 +1,175 @@
+{
+  "id": "CHEMBL4796",
+  "name": "Beta-chymotrypsin",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4796",
+  "molecules": [
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL325041",
+      "name": "BORTEZOMIB",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.62,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL206335",
+      "name": "RAZAXABAN",
+      "smiles": "CN(C)Cc1nccn1-c1ccc(NC(=O)c2cc(C(F)(F)F)nn2-c2ccc3onc(N)c3c2)c(F)c1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.19,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 65,
+      "avg_pKi": 9.41
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 65,
+      "avg_pKi": 9.41
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "f3f57675c504f15a7d091e33ac0140a7",
+      "smiles": "O=C(NCCc1ccccc1)c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "ff483e90f876240fbd831fcc7c4b3c54",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C[8*]",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "7e60aedce88a20eab3591f9ee68f04c5",
+      "smiles": "[4*][C@@H](CC(C)C)B(O)O",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "b23605562c55deae0713e1e49c3ef90e",
+      "smiles": "[14*]c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "773844beebe8d7a718eb2259bbbfa6bf",
+      "smiles": "[16*]c1ccc([16*])c(F)c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "878ebb1edee582ca1861003511b42a2d",
+      "smiles": "[9*]n1nc([14*])cc1[14*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "b3d9d14631f0b1d16c447550952debef",
+      "smiles": "O=C(Nc1ccc(-n2ccnc2)cc1)c1ccnn1-c1ccc2oncc2c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "41f2173de745a6959a8a242679478a7c",
+      "smiles": "[8*]C(F)(F)F",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "35e8d1f55213a8801dc3ea6f48b13711",
+      "smiles": "[16*]c1ccc2onc(N)c2c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "95b87d2f381ca054d761b2d1b595353c",
+      "smiles": "[9*]n1ccnc1[14*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 65,
+      "avg_pKi": 9.41
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 65,
+      "avg_pKi": 9.41
+    },
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    }
+  ]
+}

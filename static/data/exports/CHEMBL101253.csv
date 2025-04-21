@@ -1,0 +1,2 @@
+Name,ChEMBL_ID,SMILES,MolWt,cLogP,TPSA,HBD,HBA,Fsp3,RotBnds,RingCount,ROMol
+CHEMBL101253,CHEMBL101253,Clc1ccc(Nc2nnc(Cc3ccncc3)c3ccccc23)cc1,346.09852416,5.012600000000003,50.7,1.0,4.0,0.05,4.0,4.0,<rdkit.Chem.rdchem.Mol object at 0x7a08291313f0>

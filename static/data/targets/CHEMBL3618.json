@@ -1,0 +1,111 @@
+{
+  "id": "CHEMBL3618",
+  "name": "Coagulation factor V",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3618",
+  "molecules": [
+    {
+      "id": "CHEMBL206335",
+      "name": "RAZAXABAN",
+      "smiles": "CN(C)Cc1nccn1-c1ccc(NC(=O)c2cc(C(F)(F)F)nn2-c2ccc3onc(N)c3c2)c(F)c1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.19,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "773844beebe8d7a718eb2259bbbfa6bf",
+      "smiles": "[16*]c1ccc([16*])c(F)c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "878ebb1edee582ca1861003511b42a2d",
+      "smiles": "[9*]n1nc([14*])cc1[14*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "b3d9d14631f0b1d16c447550952debef",
+      "smiles": "O=C(Nc1ccc(-n2ccnc2)cc1)c1ccnn1-c1ccc2oncc2c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "41f2173de745a6959a8a242679478a7c",
+      "smiles": "[8*]C(F)(F)F",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "35e8d1f55213a8801dc3ea6f48b13711",
+      "smiles": "[16*]c1ccc2onc(N)c2c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "95b87d2f381ca054d761b2d1b595353c",
+      "smiles": "[9*]n1ccnc1[14*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 26,
+      "avg_pKi": 9.72
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "773844beebe8d7a718eb2259bbbfa6bf",
+      "smiles": "[16*]c1ccc([16*])c(F)c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "878ebb1edee582ca1861003511b42a2d",
+      "smiles": "[9*]n1nc([14*])cc1[14*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "b3d9d14631f0b1d16c447550952debef",
+      "smiles": "O=C(Nc1ccc(-n2ccnc2)cc1)c1ccnn1-c1ccc2oncc2c1",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 26,
+      "avg_pKi": 9.72
+    },
+    {
+      "hash": "41f2173de745a6959a8a242679478a7c",
+      "smiles": "[8*]C(F)(F)F",
+      "count": 26,
+      "avg_pKi": 9.72
+    }
+  ]
+}

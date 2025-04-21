@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL3018",
+  "name": "Matriptase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3018",
+  "molecules": [
+    {
+      "id": "CHEMBL273264",
+      "name": "NAFAMOSTAT",
+      "smiles": "N=C(N)Nc1ccc(C(=O)Oc2ccc3cc(C(=N)N)ccc3c2)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 12000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "fb90f077a06725510a5c6a88365b6871",
+      "smiles": "O=C(Oc1ccc2ccccc2c1)c1ccccc1",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "f1603d1e20ea78a1df3939cfb9955a9e",
+      "smiles": "[16*]c1ccc2cc(C(=N)N)ccc2c1",
+      "count": 38,
+      "avg_pKi": 4.92
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 38,
+      "avg_pKi": 4.92
+    },
+    {
+      "hash": "fb90f077a06725510a5c6a88365b6871",
+      "smiles": "O=C(Oc1ccc2ccccc2c1)c1ccccc1",
+      "count": 38,
+      "avg_pKi": 4.92
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL2096973",
+  "name": "Peptide N-myristoyltransferase",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2096973",
+  "molecules": [
+    {
+      "id": "CHEMBL106",
+      "name": "FLUCONAZOLE",
+      "smiles": "OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F",
+      "bioactivity_type": "IC80",
+      "bioactivity_value": 2.8,
+      "bioactivity_units": "ug ml-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "6d7ba99bdccf7bfcd6d4121566f4c14e",
+      "smiles": "c1ccc(C(Cn2cncn2)Cn2cncn2)cc1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7a5f147fdc9fe9ac780a4aab93f76bdb",
+      "smiles": "[9*]n1cncn1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4dec6dc02eb1a200dc39a6028202544d",
+      "smiles": "[8*]CC([8*])(O)C[8*]",
+      "count": 13,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "6d7ba99bdccf7bfcd6d4121566f4c14e",
+      "smiles": "c1ccc(C(Cn2cncn2)Cn2cncn2)cc1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7a5f147fdc9fe9ac780a4aab93f76bdb",
+      "smiles": "[9*]n1cncn1",
+      "count": 13,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4dec6dc02eb1a200dc39a6028202544d",
+      "smiles": "[8*]CC([8*])(O)C[8*]",
+      "count": 13,
+      "avg_pKi": null
+    }
+  ]
+}

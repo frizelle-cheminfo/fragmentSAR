@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL3712907",
+  "name": "Transmembrane domain-containing protein TMIGD3",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3712907",
+  "molecules": [
+    {
+      "id": "CHEMBL190",
+      "name": "THEOPHYLLINE",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "bioactivity_type": "ED50",
+      "bioactivity_value": 18.5,
+      "bioactivity_units": "mg.kg-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

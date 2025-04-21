@@ -1,0 +1,117 @@
+{
+  "id": "CHEMBL5272",
+  "name": "Glycogen debranching enzyme",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5272",
+  "molecules": [
+    {
+      "id": "CHEMBL307429",
+      "name": "DUVOGLUSTAT",
+      "smiles": "OC[C@H]1NC[C@H](O)[C@@H](O)[C@@H]1O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 91900.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL1086997",
+      "name": "LUCERASTAT",
+      "smiles": "CCCCN1C[C@H](O)[C@@H](O)[C@@H](O)[C@H]1CO",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL1029",
+      "name": "MIGLUSTAT",
+      "smiles": "CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2100.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL110458",
+      "name": "MIGALASTAT",
+      "smiles": "OC[C@H]1NC[C@H](O)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 34000000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 156,
+      "avg_pKi": 4.05
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 156,
+      "avg_pKi": 4.05
+    },
+    {
+      "hash": "6531895d62e6241f849046f169f929a7",
+      "smiles": "[4*]CCCC",
+      "count": 78,
+      "avg_pKi": 5.34
+    },
+    {
+      "hash": "83d22ae24cc9aa40263d33f9138870b0",
+      "smiles": "[13*][C@H]1NC[C@H](O)[C@@H](O)[C@@H]1O",
+      "count": 39,
+      "avg_pKi": 4.04
+    },
+    {
+      "hash": "daa075b10dd74b65856b16d727421e5a",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "26622380d7660ece526502eaa942a1b7",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.68
+    },
+    {
+      "hash": "91b24d30dd1853e3ee515dab8ebfec9e",
+      "smiles": "[13*][C@H]1NC[C@H](O)[C@@H](O)[C@H]1O",
+      "count": 39,
+      "avg_pKi": 1.47
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 156,
+      "avg_pKi": 4.05
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 156,
+      "avg_pKi": 4.05
+    },
+    {
+      "hash": "6531895d62e6241f849046f169f929a7",
+      "smiles": "[4*]CCCC",
+      "count": 78,
+      "avg_pKi": 5.34
+    },
+    {
+      "hash": "83d22ae24cc9aa40263d33f9138870b0",
+      "smiles": "[13*][C@H]1NC[C@H](O)[C@@H](O)[C@@H]1O",
+      "count": 39,
+      "avg_pKi": 4.04
+    },
+    {
+      "hash": "daa075b10dd74b65856b16d727421e5a",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    }
+  ]
+}

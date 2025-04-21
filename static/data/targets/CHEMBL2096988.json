@@ -1,0 +1,143 @@
+{
+  "id": "CHEMBL2096988",
+  "name": "Thrombin & trypsin",
+  "organism": "Homo sapiens",
+  "target_type": "SELECTIVITY GROUP",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2096988",
+  "molecules": [
+    {
+      "id": "CHEMBL1166",
+      "name": "ARGATROBAN",
+      "smiles": "CC1CNc2c(cccc2S(=O)(=O)N[C@@H](CCCNC(=N)N)C(=O)N2CC[C@@H](C)C[C@@H]2C(=O)O)C1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 9.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL273196",
+      "name": "EFEGATRAN",
+      "smiles": "CN[C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)N[C@H](C=O)CCCN=C(N)N",
+      "bioactivity_type": "ED50",
+      "bioactivity_value": 0.04,
+      "bioactivity_units": "mg.kg-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 77,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "f3ec38dcf38c3692a4d2716c3dd821a4",
+      "smiles": "[5*]NC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0871010a6076666f00b6e0e339561a45",
+      "smiles": "[5*]N1CCC[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "b627055f39d13d19f5140e909e3e6120",
+      "smiles": "[1*]C(=O)[C@H]([4*])C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3f4d5002a7d55142d552c1efd03e7574",
+      "smiles": "O=C(CCc1ccccc1)N1CCCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "b28328ebae0832c1a44dbb4a9d674729",
+      "smiles": "[4*][C@H](C=O)CCCN=C(N)N",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "20171d847c30c552f5a79e3a5e9668c3",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCC[4*]",
+      "count": 38,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "10e7af9ff5d9994614a51c6735b16060",
+      "smiles": "[5*]N1CC[C@@H](C)C[C@@H]1[13*]",
+      "count": 38,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "34541cd17306fe267474884efd4df2a4",
+      "smiles": "O=C(CNS(=O)(=O)c1cccc2c1NCCC2)N1CCCCC1",
+      "count": 38,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "6252ca5a13884602d2552e33cedb4e9c",
+      "smiles": "[12*]S(=O)(=O)c1cccc2c1NCC(C)C2",
+      "count": 38,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 38,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 38,
+      "avg_pKi": 8.05
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 77,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "f3ec38dcf38c3692a4d2716c3dd821a4",
+      "smiles": "[5*]NC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0871010a6076666f00b6e0e339561a45",
+      "smiles": "[5*]N1CCC[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "b627055f39d13d19f5140e909e3e6120",
+      "smiles": "[1*]C(=O)[C@H]([4*])C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

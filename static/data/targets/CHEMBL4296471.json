@@ -1,0 +1,151 @@
+{
+  "id": "CHEMBL4296471",
+  "name": "MM1.S",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4296471",
+  "molecules": [
+    {
+      "id": "CHEMBL98",
+      "name": "VORINOSTAT",
+      "smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL564829",
+      "name": "MILCICLIB",
+      "smiles": "CNC(=O)c1nn(C)c2c1C(C)(C)Cc1cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc1-2",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL325041",
+      "name": "BORTEZOMIB",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.62,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 117,
+      "avg_pKi": 7.1
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 78,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 78,
+      "avg_pKi": 7.1
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "922267d415c683202622e68a6f83d84d",
+      "smiles": "c1cc(N2CCNCC2)ccc1Nc1ncc2c(n1)-c1[nH]ncc1CC2",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "f3ec38dcf38c3692a4d2716c3dd821a4",
+      "smiles": "[5*]NC",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "b3bccda726a1e7839f80626c0b2d57df",
+      "smiles": "[14*]c1ncc2c(n1)-c1c(c([14*])nn1C)C(C)(C)C2",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "f3f57675c504f15a7d091e33ac0140a7",
+      "smiles": "O=C(NCCc1ccccc1)c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "ff483e90f876240fbd831fcc7c4b3c54",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C[8*]",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "7e60aedce88a20eab3591f9ee68f04c5",
+      "smiles": "[4*][C@@H](CC(C)C)B(O)O",
+      "count": 39,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "b23605562c55deae0713e1e49c3ef90e",
+      "smiles": "[14*]c1cnccn1",
+      "count": 39,
+      "avg_pKi": 9.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 117,
+      "avg_pKi": 7.1
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 78,
+      "avg_pKi": 9.21
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 78,
+      "avg_pKi": 7.1
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL4425",
+  "name": "Phosphodiesterase 1B",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4425",
+  "molecules": [
+    {
+      "id": "CHEMBL63",
+      "name": "ROLIPRAM",
+      "smiles": "COc1ccc(C2CNC(=O)C2)cc1OC1CCCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "12cd599600cfae8f56ba74483adca412",
+      "smiles": "O=C1CC(c2cccc(OC3CCCC3)c2)CN1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "8c06c744211b3ce04e793abe82f34d78",
+      "smiles": "[15*]C1CNC(=O)C1",
+      "count": 39,
+      "avg_pKi": 6.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "12cd599600cfae8f56ba74483adca412",
+      "smiles": "O=C1CC(c2cccc(OC3CCCC3)c2)CN1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": 6.0
+    }
+  ]
+}

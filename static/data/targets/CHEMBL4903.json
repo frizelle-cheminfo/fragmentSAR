@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL4903",
+  "name": "Low molecular weight phosphotyrosine protein phosphatase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4903",
+  "molecules": [
+    {
+      "id": "CHEMBL36",
+      "name": "PYRIMETHAMINE",
+      "smiles": "CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2800.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "b9e40fb2c2c3de6cd8e6483f481251ef",
+      "smiles": "[14*]c1nc(N)nc(N)c1[16*]",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "2d7b821be0d70ca45f50288a07607210",
+      "smiles": "[16*]c1ccc(Cl)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "c951e85f6fd520b1e4879d864a173f79",
+      "smiles": "c1ccc(-c2cncnc2)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "b9e40fb2c2c3de6cd8e6483f481251ef",
+      "smiles": "[14*]c1nc(N)nc(N)c1[16*]",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "2d7b821be0d70ca45f50288a07607210",
+      "smiles": "[16*]c1ccc(Cl)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "c951e85f6fd520b1e4879d864a173f79",
+      "smiles": "c1ccc(-c2cncnc2)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    }
+  ]
+}

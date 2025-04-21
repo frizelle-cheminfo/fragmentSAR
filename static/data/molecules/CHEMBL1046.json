@@ -1,0 +1,1 @@
+{"id": "CHEMBL1046", "name": "CHEMBL1046", "smiles": "NCCCCCC(=O)O", "descriptors": {"MolWt": 131.094628656, "cLogP": 0.5901000000000001, "TPSA": 63.32000000000001, "HBD": 2.0, "HBA": 2.0, "Fsp3": 0.8333333333333334, "RotBnds": 5.0, "RingCount": 0.0}, "fragments": [{"hash": "0a22fb231fa7bcaea0a16b9f236066a0", "smiles": "NCCCCCC(=O)O", "source_method": "Murcko+BRICS"}]}

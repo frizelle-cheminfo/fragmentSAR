@@ -1,0 +1,109 @@
+{
+  "id": "CHEMBL2094257",
+  "name": "Adenosine A2 receptor",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2094257",
+  "molecules": [
+    {
+      "id": "CHEMBL190",
+      "name": "THEOPHYLLINE",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "bioactivity_type": "ED50",
+      "bioactivity_value": 18.5,
+      "bioactivity_units": "mg.kg-1"
+    },
+    {
+      "id": "CHEMBL113",
+      "name": "CAFFEINE",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "bioactivity_type": "Vdss",
+      "bioactivity_value": 0.61,
+      "bioactivity_units": "L.kg-1"
+    },
+    {
+      "id": "CHEMBL477",
+      "name": "ADENOSINE",
+      "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "Km",
+      "bioactivity_value": 42000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "8f0563e2a5e643e0dcaa4731d0936122",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "count": 5,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 38,
+      "avg_pKi": 4.38
+    }
+  ]
+}

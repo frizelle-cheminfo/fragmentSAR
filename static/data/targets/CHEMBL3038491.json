@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL3038491",
+  "name": "JAK3/JAK1",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN COMPLEX",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3038491",
+  "molecules": [
+    {
+      "id": "CHEMBL221959",
+      "name": "TOFACITINIB",
+      "smiles": "C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c1ncnc2[nH]ccc12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 13.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "1452fc1a49061cf5fa4733bb51d3290f",
+      "smiles": "[5*]N1CC[C@@H](C)[C@@H]([15*])C1",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "abb19060f4f971c0379c3743c0212381",
+      "smiles": "[14*]c1ncnc2[nH]ccc12",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "4646b76c2ed8ef38b3ac8a9bf0dfab74",
+      "smiles": "[1*]C(=O)CC#N",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "29935c79ff1f7e129d93610d83b307c6",
+      "smiles": "c1nc(N[C@@H]2CCCNC2)c2cc[nH]c2n1",
+      "count": 39,
+      "avg_pKi": 7.89
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "1452fc1a49061cf5fa4733bb51d3290f",
+      "smiles": "[5*]N1CC[C@@H](C)[C@@H]([15*])C1",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "abb19060f4f971c0379c3743c0212381",
+      "smiles": "[14*]c1ncnc2[nH]ccc12",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "daa072f8fd58c960c09e980c3fa00b61",
+      "smiles": "[5*]N([5*])C",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "4646b76c2ed8ef38b3ac8a9bf0dfab74",
+      "smiles": "[1*]C(=O)CC#N",
+      "count": 39,
+      "avg_pKi": 7.89
+    },
+    {
+      "hash": "29935c79ff1f7e129d93610d83b307c6",
+      "smiles": "c1nc(N[C@@H]2CCCNC2)c2cc[nH]c2n1",
+      "count": 39,
+      "avg_pKi": 7.89
+    }
+  ]
+}

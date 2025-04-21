@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL3901",
+  "name": "Sarcoplasmic/endoplasmic reticulum calcium ATPase 2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3901",
+  "molecules": [
+    {
+      "id": "CHEMBL286020",
+      "name": "SULMAZOLE",
+      "smiles": "COc1cc([S+](C)[O-])ccc1-c1nc2cccnc2[nH]1",
+      "bioactivity_type": "Delta",
+      "bioactivity_value": 163.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "6a61d0f29b5243ec1caab27d9506cc39",
+      "smiles": "[16*]c1ccc([S+](C)[O-])cc1[16*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "c2c4085ee6885947de31ac5e291bdc9f",
+      "smiles": "c1ccc(-c2nc3cccnc3[nH]2)cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "eecfd976c9bad2cd0efe66632affed00",
+      "smiles": "[14*]c1nc2cccnc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "6a61d0f29b5243ec1caab27d9506cc39",
+      "smiles": "[16*]c1ccc([S+](C)[O-])cc1[16*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "c2c4085ee6885947de31ac5e291bdc9f",
+      "smiles": "c1ccc(-c2nc3cccnc3[nH]2)cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "eecfd976c9bad2cd0efe66632affed00",
+      "smiles": "[14*]c1nc2cccnc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

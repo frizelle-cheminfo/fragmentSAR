@@ -1,0 +1,93 @@
+{
+  "id": "CHEMBL5483186",
+  "name": "CDK10/Cyclin L2",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN COMPLEX",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5483186",
+  "molecules": [
+    {
+      "id": "CHEMBL14762",
+      "name": "SELICICLIB",
+      "smiles": "CC[C@H](CO)Nc1nc(NCc2ccccc2)c2ncn(C(C)C)c2n1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 450.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "46e030a7715f38b8279815be3720ea77",
+      "smiles": "c1ccc(CNc2ncnc3[nH]cnc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "7f9eb2c3f0630d8351584e64dec6ed6b",
+      "smiles": "[8*]C(C)C",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "3f23e1b94a668b49857575572636bfdf",
+      "smiles": "[9*]n1cnc2c([14*])nc([14*])nc21",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "466e26d4690dffae183f1d90b1863944",
+      "smiles": "[4*][C@H](CC)CO",
+      "count": 39,
+      "avg_pKi": 6.35
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "46e030a7715f38b8279815be3720ea77",
+      "smiles": "c1ccc(CNc2ncnc3[nH]cnc23)cc1",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "7f9eb2c3f0630d8351584e64dec6ed6b",
+      "smiles": "[8*]C(C)C",
+      "count": 39,
+      "avg_pKi": 6.35
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 6.35
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL5971",
+  "name": "Smoothened homolog",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5971",
+  "molecules": [
+    {
+      "id": "CHEMBL1536",
+      "name": "ERGOCALCIFEROL",
+      "smiles": "C=C1CC[C@H](O)C/C1=C/C=C1\\CCC[C@]2(C)[C@@H]([C@H](C)/C=C/[C@H](C)C(C)C)CC[C@@H]12",
+      "bioactivity_type": "EC50",
+      "bioactivity_value": 3800.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "d3cf878a6a3132514ccc3422220b3899",
+      "smiles": "[7*]C1CCC[C@]2(C)[C@@H]([15*])CC[C@@H]12",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "e3676bd9980c89ea2a48cf7407dd01f7",
+      "smiles": "[7*]C1C[C@@H](O)CCC1=C",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "34e58288018a8135a1e151997248187d",
+      "smiles": "[7*]CC[7*]",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "686b2d0381a25d6fb47ddd85c4aeae44",
+      "smiles": "[7*]C[C@H](C)C(C)C",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "58d0ce3b7a42e5d8180e0783a6a49ecc",
+      "smiles": "C=C1CCCC/C1=C/C=C1\\CCCC2CCC[C@@H]12",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "e9097bdb528009e4f7456c01fda44bb6",
+      "smiles": "[7*]C[C@H]([8*])C",
+      "count": 21,
+      "avg_pKi": 5.42
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "d3cf878a6a3132514ccc3422220b3899",
+      "smiles": "[7*]C1CCC[C@]2(C)[C@@H]([15*])CC[C@@H]12",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "e3676bd9980c89ea2a48cf7407dd01f7",
+      "smiles": "[7*]C1C[C@@H](O)CCC1=C",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "34e58288018a8135a1e151997248187d",
+      "smiles": "[7*]CC[7*]",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "686b2d0381a25d6fb47ddd85c4aeae44",
+      "smiles": "[7*]C[C@H](C)C(C)C",
+      "count": 21,
+      "avg_pKi": 5.42
+    },
+    {
+      "hash": "58d0ce3b7a42e5d8180e0783a6a49ecc",
+      "smiles": "C=C1CCCC/C1=C/C=C1\\CCCC2CCC[C@@H]12",
+      "count": 21,
+      "avg_pKi": 5.42
+    }
+  ]
+}

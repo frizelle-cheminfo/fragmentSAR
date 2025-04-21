@@ -1,0 +1,165 @@
+{
+  "id": "CHEMBL3795",
+  "name": "Melanocortin receptor 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3795",
+  "molecules": [
+    {
+      "id": "CHEMBL441738",
+      "name": "AFAMELANOTIDE",
+      "smiles": "CCCC[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(C)=O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(N)=O)C(C)C",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.5,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "cfb8d85b19f457cfc7678f64fce89395",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCC(=O)O",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "ff483e90f876240fbd831fcc7c4b3c54",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C[8*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "20171d847c30c552f5a79e3a5e9668c3",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCC[4*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "443ec65fd37830806cbabf1744e26ca5",
+      "smiles": "[16*]c1c[nH]c2ccccc12",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "31ae5aae0cb7d925a9a504c7fb6c4fa3",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CO",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "6a7fcdd02a7386df13710691e69541d4",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCCC",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "40cc5f7d61c14d34dca6263f3f6df6d9",
+      "smiles": "O=C(CCc1ccccc1)NCC(=O)NCC(=O)NCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)NCC(=O)N1CCCC1",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "b627055f39d13d19f5140e909e3e6120",
+      "smiles": "[1*]C(=O)[C@H]([4*])C[8*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "78b279f4ad6ad6ffe6987bfb2b517e6c",
+      "smiles": "[4*][C@H](C(N)=O)C(C)C",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "7d45210b2904075a7a6eab93095a206e",
+      "smiles": "[5*]NC(=N)N",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "c2c6b4ff92317d04cb76837bf5a0bed1",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCCCN",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "0871010a6076666f00b6e0e339561a45",
+      "smiles": "[5*]N1CCC[C@H]1[13*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "7f052018811bff8f9ab5e7231fd7fe81",
+      "smiles": "[1*]C(=O)C[4*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 37,
+      "avg_pKi": 9.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "cfb8d85b19f457cfc7678f64fce89395",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCC(=O)O",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "ff483e90f876240fbd831fcc7c4b3c54",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C[8*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "20171d847c30c552f5a79e3a5e9668c3",
+      "smiles": "[1*]C(=O)[C@@H]([4*])CCC[4*]",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "443ec65fd37830806cbabf1744e26ca5",
+      "smiles": "[16*]c1c[nH]c2ccccc12",
+      "count": 37,
+      "avg_pKi": 9.3
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 37,
+      "avg_pKi": 9.3
+    }
+  ]
+}

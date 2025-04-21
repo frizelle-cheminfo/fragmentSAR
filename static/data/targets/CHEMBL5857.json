@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL5857",
+  "name": "Trace amine-associated receptor 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5857",
+  "molecules": [
+    {
+      "id": "CHEMBL1256819",
+      "name": "ANTAZOLINE HYDROCHLORIDE",
+      "smiles": "Cl.c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "cda2d1206a655d2752bc8ff12d459878",
+      "smiles": "c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "0f6af902dbd1ef72671571521f4a7f93",
+      "smiles": "[4*]CC1=NCCN1",
+      "count": 39,
+      "avg_pKi": 5.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "cda2d1206a655d2752bc8ff12d459878",
+      "smiles": "c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1",
+      "count": 39,
+      "avg_pKi": 5.0
+    },
+    {
+      "hash": "0f6af902dbd1ef72671571521f4a7f93",
+      "smiles": "[4*]CC1=NCCN1",
+      "count": 39,
+      "avg_pKi": 5.0
+    }
+  ]
+}

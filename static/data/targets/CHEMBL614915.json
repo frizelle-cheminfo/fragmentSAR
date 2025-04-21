@@ -1,0 +1,149 @@
+{
+  "id": "CHEMBL614915",
+  "name": "SK-MEL19",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614915",
+  "molecules": [
+    {
+      "id": "CHEMBL601719",
+      "name": "CRIZOTINIB",
+      "smiles": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 8.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL554",
+      "name": "LAPATINIB",
+      "smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 10.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 78,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4b476c4c722d6240e0931354eb3d17e2",
+      "smiles": "[9*]n1cc([16*])cn1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "0352a7edf4e79ffe3f5f7bff38bb23fc",
+      "smiles": "c1ccc(COc2cncc(-c3cnn(C4CCNCC4)c3)c2)cc1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "cf435e0e272ab45c6c94fdb752a4576a",
+      "smiles": "[4*]CCS(C)(=O)=O",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "e586f6fb5e219e4b5f5d76026ae65e3a",
+      "smiles": "c1ccc(COc2ccc(Nc3ncnc4ccc(-c5ccco5)cc34)cc2)cc1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "a6c73ea7bdd4f45ee7382374fbd311f4",
+      "smiles": "[14*]c1ccc([14*])o1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "a6cf3c1e3999aba49567cd555fad6422",
+      "smiles": "[16*]c1ccc([16*])c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "77af2c93a3ff3a83831f8cf6f9f85725",
+      "smiles": "[16*]c1cccc(F)c1",
+      "count": 39,
+      "avg_pKi": 8.0
+    },
+    {
+      "hash": "69e7ec70c7f2dcbc28befa13216ad261",
+      "smiles": "[14*]c1ncnc2ccc([16*])cc12",
+      "count": 39,
+      "avg_pKi": 8.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 78,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "aa4ad3154b2ef1d74bb64ab816955c3b",
+      "smiles": "[16*]c1cnc(N)c([16*])c1",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "4c376ebd5abb39b1d3e718652d618789",
+      "smiles": "[16*]c1c(Cl)ccc(F)c1Cl",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "9fa3d222493523389e5c90da62a78070",
+      "smiles": "[4*][C@@H]([8*])C",
+      "count": 39,
+      "avg_pKi": 8.1
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 8.1
+    }
+  ]
+}

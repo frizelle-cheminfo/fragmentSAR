@@ -1,0 +1,103 @@
+{
+  "id": "CHEMBL2073719",
+  "name": "SLC16A10 protein",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2073719",
+  "molecules": [
+    {
+      "id": "CHEMBL17962",
+      "name": "HISTIDINE",
+      "smiles": "N[C@@H](Cc1c[nH]cn1)C(=O)O",
+      "bioactivity_type": "KA",
+      "bioactivity_value": 4.0,
+      "bioactivity_units": "uM"
+    },
+    {
+      "id": "CHEMBL301523",
+      "name": "PHENYLALANINE",
+      "smiles": "N[C@@H](Cc1ccccc1)C(=O)O",
+      "bioactivity_type": "Solubility",
+      "bioactivity_value": 245000.0,
+      "bioactivity_units": "ug.mL-1"
+    },
+    {
+      "id": "CHEMBL1009",
+      "name": "LEVODOPA",
+      "smiles": "N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 900000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 109,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 73,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 34,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 109,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 73,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 3.05
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    }
+  ]
+}

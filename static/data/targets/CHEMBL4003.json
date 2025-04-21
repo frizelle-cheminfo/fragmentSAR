@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL4003",
+  "name": "Histidase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4003",
+  "molecules": [
+    {
+      "id": "CHEMBL17962",
+      "name": "HISTIDINE",
+      "smiles": "N[C@@H](Cc1c[nH]cn1)C(=O)O",
+      "bioactivity_type": "KA",
+      "bioactivity_value": 4.0,
+      "bioactivity_units": "uM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "abe461f8b04cac7d71b36884cc24e00d",
+      "smiles": "[8*]C[C@H](N)C(=O)O",
+      "count": 36,
+      "avg_pKi": null
+    },
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 36,
+      "avg_pKi": null
+    }
+  ]
+}

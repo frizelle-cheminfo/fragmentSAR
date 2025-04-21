@@ -1,0 +1,105 @@
+{
+  "id": "CHEMBL2216743",
+  "name": "Leucine-rich repeat-containing protein 59",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2216743",
+  "molecules": [
+    {
+      "id": "CHEMBL266349",
+      "name": "MELAGATRAN",
+      "smiles": "N=C(N)c1ccc(CNC(=O)[C@@H]2CCN2C(=O)[C@H](NCC(=O)O)C2CCCCC2)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 4700.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "07c972c361ec5ce91ec9c7d1e2fc8edc",
+      "smiles": "[15*]C1CCCCC1",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "810c3aa8f1de4e298d33239e73022dfc",
+      "smiles": "[1*]C(=O)[C@H]([4*])[8*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "d93abe27095ee1cecd3465f449be0223",
+      "smiles": "[5*]N1CC[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "6990a2f0c91b4308bab73d87e9c20894",
+      "smiles": "O=C(NCc1ccccc1)[C@@H]1CCN1C(=O)CC1CCCCC1",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "6767c30436c525612145f8d4c2ef00dc",
+      "smiles": "[16*]c1ccc(C(=N)N)cc1",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "ea352b2ef37e1b90c728c67dba964637",
+      "smiles": "[4*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 5.33
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "07c972c361ec5ce91ec9c7d1e2fc8edc",
+      "smiles": "[15*]C1CCCCC1",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "810c3aa8f1de4e298d33239e73022dfc",
+      "smiles": "[1*]C(=O)[C@H]([4*])[8*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 5.33
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 5.33
+    }
+  ]
+}

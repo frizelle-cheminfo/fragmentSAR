@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL614019",
+  "name": "M19-MEL",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614019",
+  "molecules": [
+    {
+      "id": "CHEMBL917",
+      "name": "FLOXURIDINE",
+      "smiles": "O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1F",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "19181476b22e543a054c7765502b7e46",
+      "smiles": "[9*]n1cc(F)c(=O)[nH]c1=O",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "ed48e6e21e3e28000f68932000a4b4ec",
+      "smiles": "O=c1ccn([C@H]2CCCO2)c(=O)[nH]1",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "b3d4d328c27cb45eab90ef4167635a42",
+      "smiles": "[13*][C@H]1C[C@H](O)[C@@H]([13*])O1",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 8,
+      "avg_pKi": 8.7
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "19181476b22e543a054c7765502b7e46",
+      "smiles": "[9*]n1cc(F)c(=O)[nH]c1=O",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "ed48e6e21e3e28000f68932000a4b4ec",
+      "smiles": "O=c1ccn([C@H]2CCCO2)c(=O)[nH]1",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "b3d4d328c27cb45eab90ef4167635a42",
+      "smiles": "[13*][C@H]1C[C@H](O)[C@@H]([13*])O1",
+      "count": 8,
+      "avg_pKi": 8.7
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 8,
+      "avg_pKi": 8.7
+    }
+  ]
+}

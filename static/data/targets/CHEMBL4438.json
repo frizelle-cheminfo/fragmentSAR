@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL4438",
+  "name": "Serine/threonine protein phosphatase PP1-gamma catalytic subunit",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4438",
+  "molecules": [
+    {
+      "id": "CHEMBL48449",
+      "name": "CANTHARIDIN",
+      "smiles": "C[C@@]12C(=O)OC(=O)[C@]1(C)[C@H]1CC[C@@H]2O1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 160.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "09f017ad93a1bb0f3451f5ada5a16ed9",
+      "smiles": "C[C@@]12C(=O)OC(=O)[C@]1(C)[C@H]1CC[C@@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    },
+    {
+      "hash": "51eafc5fd7abded9e8efb8fd91cf8d73",
+      "smiles": "O=C1OC(=O)C2C1[C@@H]1CC[C@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "09f017ad93a1bb0f3451f5ada5a16ed9",
+      "smiles": "C[C@@]12C(=O)OC(=O)[C@]1(C)[C@H]1CC[C@@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    },
+    {
+      "hash": "51eafc5fd7abded9e8efb8fd91cf8d73",
+      "smiles": "O=C1OC(=O)C2C1[C@@H]1CC[C@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    }
+  ]
+}

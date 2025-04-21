@@ -1,0 +1,137 @@
+{
+  "id": "CHEMBL227",
+  "name": "Type-1 angiotensin II receptor",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL227",
+  "molecules": [
+    {
+      "id": "CHEMBL1016",
+      "name": "CANDESARTAN",
+      "smiles": "CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1",
+      "bioactivity_type": "T1/2",
+      "bioactivity_value": 9.0,
+      "bioactivity_units": "hr"
+    },
+    {
+      "id": "CHEMBL1561",
+      "name": "MIGLITOL",
+      "smiles": "OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 50.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "26622380d7660ece526502eaa942a1b7",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "09d629d57c55be6270bda44180dd9209",
+      "smiles": "[14*]c1nnn[nH]1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "c89ef7acb1a7d1bb6420dc53c6b84ff3",
+      "smiles": "[16*]c1ccccc1[16*]",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "93e3fe8f00b1d6c5be03c01b447ecf84",
+      "smiles": "[9*]n1c([14*])nc2cccc([16*])c21",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f7750fa22be76692300212a20c1eaee9",
+      "smiles": "c1ccc(-c2nnn[nH]2)c(-c2ccc(Cn3cnc4ccccc43)cc2)c1",
+      "count": 12,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 12,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "26622380d7660ece526502eaa942a1b7",
+      "smiles": "[5*]N1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1[13*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "da17eef9c95f82cea74d8894be49c35c",
+      "smiles": "C1CCNCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 12,
+      "avg_pKi": null
+    }
+  ]
+}

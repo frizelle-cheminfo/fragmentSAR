@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL3038498",
+  "name": "Keap1/Nrf2",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3038498",
+  "molecules": [
+    {
+      "id": "CHEMBL932",
+      "name": "DIPYRIDAMOLE",
+      "smiles": "OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 500.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "caea2381f407d36a67b976baa8d10ab6",
+      "smiles": "c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "de1a9909f08ea2f80818006dd965ee24",
+      "smiles": "[14*]c1nc([14*])c2nc([14*])nc([14*])c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": 6.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "caea2381f407d36a67b976baa8d10ab6",
+      "smiles": "c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "de1a9909f08ea2f80818006dd965ee24",
+      "smiles": "[14*]c1nc([14*])c2nc([14*])nc([14*])c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": 6.3
+    }
+  ]
+}

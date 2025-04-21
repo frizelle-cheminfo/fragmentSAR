@@ -1,0 +1,99 @@
+{
+  "id": "CHEMBL4523680",
+  "name": "Protein cereblon/Epidermal growth factor receptor",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4523680",
+  "molecules": [
+    {
+      "id": "CHEMBL31965",
+      "name": "CANERTINIB",
+      "smiles": "C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 74.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "68a0dd22b8c1bb0041923def84bb5e6f",
+      "smiles": "[16*]c1ccc(F)c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "e49939e5f45cd506cf0dc59253d763a0",
+      "smiles": "[1*]C(=O)C=C",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "e542a41c6ec683c3e94656f95dc1f0ad",
+      "smiles": "c1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)ccc23)cc1",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "b039bf6d28e8d526b2615ea5217be352",
+      "smiles": "[14*]c1ncnc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "f9c102ced0c7e1ca55571c5ffbcaeae8",
+      "smiles": "[4*]CCC[4*]",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 39,
+      "avg_pKi": 7.13
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "68a0dd22b8c1bb0041923def84bb5e6f",
+      "smiles": "[16*]c1ccc(F)c(Cl)c1",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "e49939e5f45cd506cf0dc59253d763a0",
+      "smiles": "[1*]C(=O)C=C",
+      "count": 39,
+      "avg_pKi": 7.13
+    },
+    {
+      "hash": "e542a41c6ec683c3e94656f95dc1f0ad",
+      "smiles": "c1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)ccc23)cc1",
+      "count": 39,
+      "avg_pKi": 7.13
+    }
+  ]
+}

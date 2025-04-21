@@ -1,0 +1,107 @@
+{
+  "id": "CHEMBL5847",
+  "name": "Aldo-keto reductase family 1 member C2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5847",
+  "molecules": [
+    {
+      "id": "CHEMBL1105",
+      "name": "6-METHOXY-2-NAPHTHYLACETIC ACID",
+      "smiles": "COc1ccc2cc(CC(=O)O)ccc2c1",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 5.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL145",
+      "name": "CAFFEIC ACID",
+      "smiles": "O=C(O)/C=C/c1ccc(O)c(O)c1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1200000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "8fdf73f0cc719fb7caaef05635eb47f3",
+      "smiles": "[8*]CC(=O)O",
+      "count": 21,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0655b28aecf4757c2a19fccdef39f439",
+      "smiles": "[16*]c1ccc2cc([16*])ccc2c1",
+      "count": 21,
+      "avg_pKi": null
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 21,
+      "avg_pKi": null
+    },
+    {
+      "hash": "82cce384d65aa7736f2fdbdd401d54c2",
+      "smiles": "c1ccc2ccccc2c1",
+      "count": 21,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "8fdf73f0cc719fb7caaef05635eb47f3",
+      "smiles": "[8*]CC(=O)O",
+      "count": 21,
+      "avg_pKi": null
+    }
+  ]
+}

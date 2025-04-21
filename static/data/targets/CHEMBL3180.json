@@ -1,0 +1,87 @@
+{
+  "id": "CHEMBL3180",
+  "name": "Carboxylesterase 2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3180",
+  "molecules": [
+    {
+      "id": "CHEMBL4863829",
+      "name": "OBELDESIVIR",
+      "smiles": "CC(C)C(=O)OC[C@H]1O[C@@](C#N)(c2ccc3c(N)ncnn23)[C@H](O)[C@@H]1O",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 99.0,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "00c5e05e7cf3a3fa0a2895f7348917f9",
+      "smiles": "[1*]C(=O)C(C)C",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cc5fab4b6975a26a2bba2957bf64ef21",
+      "smiles": "[14*]c1ccc2c(N)ncnn12",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "bdb31210cc0312d3d3eb8f02a9262c6f",
+      "smiles": "c1ncc2ccc(C3CCCO3)n2n1",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1c7d2f2a2287cdcff650cb03e1c162e8",
+      "smiles": "[13*][C@H]1O[C@]([13*])(C#N)[C@H](O)[C@@H]1O",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 37,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "00c5e05e7cf3a3fa0a2895f7348917f9",
+      "smiles": "[1*]C(=O)C(C)C",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cc5fab4b6975a26a2bba2957bf64ef21",
+      "smiles": "[14*]c1ccc2c(N)ncnn12",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "bdb31210cc0312d3d3eb8f02a9262c6f",
+      "smiles": "c1ncc2ccc(C3CCCO3)n2n1",
+      "count": 37,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1c7d2f2a2287cdcff650cb03e1c162e8",
+      "smiles": "[13*][C@H]1O[C@]([13*])(C#N)[C@H](O)[C@@H]1O",
+      "count": 37,
+      "avg_pKi": null
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "CHEMBL5843",
+  "name": "UDP-glucose 4-epimerase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5843",
+  "molecules": [
+    {
+      "id": "CHEMBL411",
+      "name": "DIETHYLSTILBESTROL",
+      "smiles": "CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1",
+      "bioactivity_type": "EC50",
+      "bioactivity_value": 9.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL1289",
+      "name": "HALOPROGIN",
+      "smiles": "Clc1cc(Cl)c(OCC#CI)cc1Cl",
+      "bioactivity_type": "MIC",
+      "bioactivity_value": 3.13,
+      "bioactivity_units": "ug.mL-1"
+    },
+    {
+      "id": "CHEMBL456",
+      "name": "ETHACRYNIC ACID",
+      "smiles": "C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl",
+      "bioactivity_type": "mequiv of Na+/kg",
+      "bioactivity_value": 4.14,
+      "bioactivity_units": "0-5h"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 31,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 31,
+      "avg_pKi": null
+    },
+    {
+      "hash": "27c7f1536b79407877853911ea0ccc34",
+      "smiles": "[7*]C([8*])CC",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "26a1f197f08f8761c1b97db870d945d6",
+      "smiles": "C(=Cc1ccccc1)c1ccccc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "614e2457ce6bc97528dfe76a67d2c8a8",
+      "smiles": "[6*]C(=O)C(=C)CC",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a69ff46d4bd1fe617727c00843f4991e",
+      "smiles": "[16*]c1ccc([16*])c(Cl)c1Cl",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ea352b2ef37e1b90c728c67dba964637",
+      "smiles": "[4*]CC(=O)O",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "33202513139bd318c8ca75960f709553",
+      "smiles": "[16*]c1cc(Cl)c(Cl)cc1Cl",
+      "count": 11,
+      "avg_pKi": null
+    },
+    {
+      "hash": "5b09b23be28a9a6c0fe4c068f0dd2351",
+      "smiles": "[4*]CC#CI",
+      "count": 11,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 31,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 31,
+      "avg_pKi": null
+    },
+    {
+      "hash": "27c7f1536b79407877853911ea0ccc34",
+      "smiles": "[7*]C([8*])CC",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "26a1f197f08f8761c1b97db870d945d6",
+      "smiles": "C(=Cc1ccccc1)c1ccccc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    }
+  ]
+}

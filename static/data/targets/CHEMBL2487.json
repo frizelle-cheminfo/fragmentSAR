@@ -1,0 +1,101 @@
+{
+  "id": "CHEMBL2487",
+  "name": "Amyloid-beta A4 protein",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2487",
+  "molecules": [
+    {
+      "id": "CHEMBL64894",
+      "name": "GENTIAN VIOLET",
+      "smiles": "CN(C)c1ccc(C(=C2C=CC(=[N+](C)C)C=C2)c2ccc(N(C)C)cc2)cc1.[Cl-]",
+      "bioactivity_type": "Lysis",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL429694",
+      "name": "CONGO RED",
+      "smiles": "Nc1c(/N=N/c2ccc(-c3ccc(/N=N/c4cc(S(=O)(=O)[O-])c5ccccc5c4N)cc3)cc2)cc(S(=O)(=O)[O-])c2ccccc12.[Na+].[Na+]",
+      "bioactivity_type": "Kd",
+      "bioactivity_value": 1500.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "701ee46fc44720cd3686bb7ab1d26939",
+      "smiles": "[16*]c1ccc(/N=N/c2cc(S(=O)(=O)[O-])c3ccccc3c2N)cc1",
+      "count": 39,
+      "avg_pKi": 5.82
+    },
+    {
+      "hash": "1c6695660314c20886d1b2ee5a9000a3",
+      "smiles": "c1ccc2cc(/N=N/c3ccc(-c4ccc(/N=N/c5ccc6ccccc6c5)cc4)cc3)ccc2c1",
+      "count": 39,
+      "avg_pKi": 5.82
+    },
+    {
+      "hash": "b0d3c8adeed148e2a6514d6d7f63f5eb",
+      "smiles": "[7*]C([8*])[8*]",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f56368f6ebd09d0f5fe37f52dc2b4faa",
+      "smiles": "[7*]C1C=CC(=[N+](C)C)C=C1",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "43a47f5e1eb01e683fc4f4871cb040cf",
+      "smiles": "[N+]=C1C=CC(=C(c2ccccc2)c2ccccc2)C=C1",
+      "count": 22,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "701ee46fc44720cd3686bb7ab1d26939",
+      "smiles": "[16*]c1ccc(/N=N/c2cc(S(=O)(=O)[O-])c3ccccc3c2N)cc1",
+      "count": 39,
+      "avg_pKi": 5.82
+    },
+    {
+      "hash": "1c6695660314c20886d1b2ee5a9000a3",
+      "smiles": "c1ccc2cc(/N=N/c3ccc(-c4ccc(/N=N/c5ccc6ccccc6c5)cc4)cc3)ccc2c1",
+      "count": 39,
+      "avg_pKi": 5.82
+    },
+    {
+      "hash": "b0d3c8adeed148e2a6514d6d7f63f5eb",
+      "smiles": "[7*]C([8*])[8*]",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 22,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f56368f6ebd09d0f5fe37f52dc2b4faa",
+      "smiles": "[7*]C1C=CC(=[N+](C)C)C=C1",
+      "count": 22,
+      "avg_pKi": null
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "CHEMBL1293257",
+  "name": "Galactokinase",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1293257",
+  "molecules": [
+    {
+      "id": "CHEMBL496",
+      "name": "HEXACHLOROPHENE",
+      "smiles": "Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl",
+      "bioactivity_type": "Control current",
+      "bioactivity_value": 237.4,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL290106",
+      "name": "BITHIONOL",
+      "smiles": "Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O",
+      "bioactivity_type": "Control current",
+      "bioactivity_value": 198.6,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL50",
+      "name": "QUERCETIN",
+      "smiles": "O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 32870.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d17123e65f77c216d6775d8ed233576d",
+      "smiles": "c1ccc(Cc2ccccc2)cc1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d9c94bb9e65fef4673f908356035ffcd",
+      "smiles": "[16*]c1c(O)c(Cl)cc(Cl)c1Cl",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "133fddfa0a7c43cb09cce2d245b01231",
+      "smiles": "c1ccc(Sc2ccccc2)cc1",
+      "count": 9,
+      "avg_pKi": null
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 9,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a2dca76cab9a71b666dc62df179460b6",
+      "smiles": "[16*]c1cc(Cl)cc(Cl)c1O",
+      "count": 9,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0713d6022c7c07b657b6c5e31ea8abb5",
+      "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "5bfd11a4fddc0f2aa7f9987768898c81",
+      "smiles": "[14*]c1oc2cc(O)cc(O)c2c(=O)c1O",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 4.48
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d17123e65f77c216d6775d8ed233576d",
+      "smiles": "c1ccc(Cc2ccccc2)cc1",
+      "count": 23,
+      "avg_pKi": null
+    }
+  ]
+}

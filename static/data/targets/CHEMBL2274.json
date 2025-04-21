@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL2274",
+  "name": "Sphingosine 1-phosphate receptor Edg-8",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2274",
+  "molecules": [
+    {
+      "id": "CHEMBL314854",
+      "name": "FINGOLIMOD",
+      "smiles": "CCCCCCCCc1ccc(CCC(N)(CO)CO)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 6.1,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "cef8679f31159fc4b6cadab71a2f5c6f",
+      "smiles": "[8*]CCC(N)(CO)CO",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "66636a5cc7d52fbe847823895b5c6ded",
+      "smiles": "[8*]CCCCCCCC",
+      "count": 31,
+      "avg_pKi": 8.21
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "cef8679f31159fc4b6cadab71a2f5c6f",
+      "smiles": "[8*]CCC(N)(CO)CO",
+      "count": 31,
+      "avg_pKi": 8.21
+    },
+    {
+      "hash": "66636a5cc7d52fbe847823895b5c6ded",
+      "smiles": "[8*]CCCCCCCC",
+      "count": 31,
+      "avg_pKi": 8.21
+    }
+  ]
+}

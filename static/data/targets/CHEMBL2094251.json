@@ -1,0 +1,119 @@
+{
+  "id": "CHEMBL2094251",
+  "name": "Adrenergic receptor alpha-1",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2094251",
+  "molecules": [
+    {
+      "id": "CHEMBL24",
+      "name": "ATENOLOL",
+      "smiles": "CC(C)NCC(O)COc1ccc(CC(N)=O)cc1",
+      "bioactivity_type": "Pc",
+      "bioactivity_value": 1000000.0,
+      "bioactivity_units": "cm s-1"
+    },
+    {
+      "id": "CHEMBL844",
+      "name": "BRIMONIDINE",
+      "smiles": "Brc1c(NC2=NCCN2)ccc2nccnc12",
+      "bioactivity_type": "pC25",
+      "bioactivity_value": 1.55,
+      "bioactivity_units": "uM kg-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f16fda3236818ab407442a697f2318eb",
+      "smiles": "[8*]CC(N)=O",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "08e9aebde0e73c4f76299fc179cf4a1b",
+      "smiles": "[4*]CC(O)C[4*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "40cccadb6f852d68d3b37d93797430ce",
+      "smiles": "[4*]C(C)C",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4db04d0343202a67cc5e62ff89806790",
+      "smiles": "[5*]NC1=NCCN1",
+      "count": 14,
+      "avg_pKi": null
+    },
+    {
+      "hash": "67f23470e787263d16219b828a6f1fcc",
+      "smiles": "c1cnc2cc(NC3=NCCN3)ccc2n1",
+      "count": 14,
+      "avg_pKi": null
+    },
+    {
+      "hash": "5bac06ec1554fa7a28d8e285e33ea63e",
+      "smiles": "[16*]c1ccc2nccnc2c1Br",
+      "count": 14,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f16fda3236818ab407442a697f2318eb",
+      "smiles": "[8*]CC(N)=O",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "08e9aebde0e73c4f76299fc179cf4a1b",
+      "smiles": "[4*]CC(O)C[4*]",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "40cccadb6f852d68d3b37d93797430ce",
+      "smiles": "[4*]C(C)C",
+      "count": 16,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 16,
+      "avg_pKi": null
+    }
+  ]
+}

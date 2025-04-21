@@ -1,0 +1,65 @@
+{
+  "id": "CHEMBL2899",
+  "name": "Brain adenylate cyclase 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2899",
+  "molecules": [
+    {
+      "id": "CHEMBL113",
+      "name": "CAFFEINE",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "bioactivity_type": "Vdss",
+      "bioactivity_value": 0.61,
+      "bioactivity_units": "L.kg-1"
+    },
+    {
+      "id": "CHEMBL190",
+      "name": "THEOPHYLLINE",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "bioactivity_type": "ED50",
+      "bioactivity_value": 18.5,
+      "bioactivity_units": "mg.kg-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8f0563e2a5e643e0dcaa4731d0936122",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "count": 5,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8f0563e2a5e643e0dcaa4731d0936122",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "count": 5,
+      "avg_pKi": null
+    }
+  ]
+}

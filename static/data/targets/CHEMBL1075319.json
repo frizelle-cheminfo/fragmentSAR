@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL1075319",
+  "name": "Transient receptor potential cation channel subfamily M member 8",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1075319",
+  "molecules": [
+    {
+      "id": "CHEMBL485259",
+      "name": "EUCALYPTOL",
+      "smiles": "CC12CCC(CC1)C(C)(C)O2",
+      "bioactivity_type": "MIC",
+      "bioactivity_value": 800.0,
+      "bioactivity_units": "ug.mL-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "b7989e9b02a89d033c8159f554a30b8e",
+      "smiles": "CC12CCC(CC1)C(C)(C)O2",
+      "count": 11,
+      "avg_pKi": null
+    },
+    {
+      "hash": "223c09b528e8f40849828fe67dbeb648",
+      "smiles": "C1CC2CCC1CO2",
+      "count": 11,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "b7989e9b02a89d033c8159f554a30b8e",
+      "smiles": "CC12CCC(CC1)C(C)(C)O2",
+      "count": 11,
+      "avg_pKi": null
+    },
+    {
+      "hash": "223c09b528e8f40849828fe67dbeb648",
+      "smiles": "C1CC2CCC1CO2",
+      "count": 11,
+      "avg_pKi": null
+    }
+  ]
+}

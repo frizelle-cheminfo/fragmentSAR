@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL4523681",
+  "name": "Protein cereblon/Estrogen receptor",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4523681",
+  "molecules": [
+    {
+      "id": "CHEMBL1358",
+      "name": "FULVESTRANT",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4C[C@@H](CCCCCCCCC[S+]([O-])CCCC(F)(F)C(F)(F)F)[C@H]3[C@@H]1CC[C@@H]2O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 0.49,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "67320a38b5fbd7406fdac911aa2b4f30",
+      "smiles": "[15*][C@@H]1Cc2cc(O)ccc2[C@H]2CC[C@]3(C)[C@@H](O)CC[C@H]3[C@H]12",
+      "count": 29,
+      "avg_pKi": 9.31
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 9.31
+    },
+    {
+      "hash": "16c3f4285cb7d1e31efc60bf9c5736fb",
+      "smiles": "[8*]CCCCCCCCC[S+]([O-])CCCC(F)(F)C(F)(F)F",
+      "count": 29,
+      "avg_pKi": 9.31
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "67320a38b5fbd7406fdac911aa2b4f30",
+      "smiles": "[15*][C@@H]1Cc2cc(O)ccc2[C@H]2CC[C@]3(C)[C@@H](O)CC[C@H]3[C@H]12",
+      "count": 29,
+      "avg_pKi": 9.31
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 9.31
+    },
+    {
+      "hash": "16c3f4285cb7d1e31efc60bf9c5736fb",
+      "smiles": "[8*]CCCCCCCCC[S+]([O-])CCCC(F)(F)C(F)(F)F",
+      "count": 29,
+      "avg_pKi": 9.31
+    }
+  ]
+}

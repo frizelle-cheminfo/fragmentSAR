@@ -1,0 +1,131 @@
+{
+  "id": "CHEMBL3137274",
+  "name": "LIFR/GP130",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3137274",
+  "molecules": [
+    {
+      "id": "CHEMBL46740",
+      "name": "BAZEDOXIFENE",
+      "smiles": "Cc1c(-c2ccc(O)cc2)n(Cc2ccc(OCCN3CCCCCC3)cc2)c2ccc(O)cc12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 23.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL81",
+      "name": "RALOXIFENE",
+      "smiles": "O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1.8,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "28fa9a1a50798f55de9afff624b15b4f",
+      "smiles": "[4*]CC[4*]",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "4ffc6840dc192d0d74f8ec32ad9a2900",
+      "smiles": "[9*]n1c([14*])c(C)c2cc(O)ccc21",
+      "count": 28,
+      "avg_pKi": 7.64
+    },
+    {
+      "hash": "40ed49a49f0abab0f16588cb8e4313db",
+      "smiles": "[5*]N1CCCCCC1",
+      "count": 28,
+      "avg_pKi": 7.64
+    },
+    {
+      "hash": "731b254683260a3c01ee84e169d27cce",
+      "smiles": "c1ccc(-c2cc3ccccc3n2Cc2ccc(OCCN3CCCCCC3)cc2)cc1",
+      "count": 28,
+      "avg_pKi": 7.64
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 28,
+      "avg_pKi": 7.64
+    },
+    {
+      "hash": "7db160ed9f974d607b06cf49f0cd5b02",
+      "smiles": "[6*]C([6*])=O",
+      "count": 27,
+      "avg_pKi": 8.74
+    },
+    {
+      "hash": "8588f03c3e21d1f936b450aee6cdf613",
+      "smiles": "[14*]c1sc2cc(O)ccc2c1[16*]",
+      "count": 27,
+      "avg_pKi": 8.74
+    },
+    {
+      "hash": "079092d6321dac7fb44d371170da184f",
+      "smiles": "O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccccc2)sc2ccccc12",
+      "count": 27,
+      "avg_pKi": 8.74
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 27,
+      "avg_pKi": 8.74
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "28fa9a1a50798f55de9afff624b15b4f",
+      "smiles": "[4*]CC[4*]",
+      "count": 55,
+      "avg_pKi": 8.18
+    },
+    {
+      "hash": "4ffc6840dc192d0d74f8ec32ad9a2900",
+      "smiles": "[9*]n1c([14*])c(C)c2cc(O)ccc21",
+      "count": 28,
+      "avg_pKi": 7.64
+    }
+  ]
+}

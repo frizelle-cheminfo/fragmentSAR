@@ -1,0 +1,33 @@
+{
+  "id": "CHEMBL4573",
+  "name": "Metabotropic glutamate receptor 6",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4573",
+  "molecules": [
+    {
+      "id": "CHEMBL274323",
+      "name": "ASPARTIC ACID",
+      "smiles": "N[C@@H](CC(=O)O)C(=O)O",
+      "bioactivity_type": "KA",
+      "bioactivity_value": 48.0,
+      "bioactivity_units": "uM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "487da7e352fe4b99d63076e802523cd5",
+      "smiles": "N[C@@H](CC(=O)O)C(=O)O",
+      "count": 33,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "487da7e352fe4b99d63076e802523cd5",
+      "smiles": "N[C@@H](CC(=O)O)C(=O)O",
+      "count": 33,
+      "avg_pKi": null
+    }
+  ]
+}

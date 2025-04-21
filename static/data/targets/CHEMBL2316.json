@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL2316",
+  "name": "Granzyme B",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2316",
+  "molecules": [
+    {
+      "id": "CHEMBL496",
+      "name": "HEXACHLOROPHENE",
+      "smiles": "Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl",
+      "bioactivity_type": "Control current",
+      "bioactivity_value": 237.4,
+      "bioactivity_units": "%"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d17123e65f77c216d6775d8ed233576d",
+      "smiles": "c1ccc(Cc2ccccc2)cc1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d9c94bb9e65fef4673f908356035ffcd",
+      "smiles": "[16*]c1c(O)c(Cl)cc(Cl)c1Cl",
+      "count": 23,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d17123e65f77c216d6775d8ed233576d",
+      "smiles": "c1ccc(Cc2ccccc2)cc1",
+      "count": 23,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d9c94bb9e65fef4673f908356035ffcd",
+      "smiles": "[16*]c1c(O)c(Cl)cc(Cl)c1Cl",
+      "count": 23,
+      "avg_pKi": null
+    }
+  ]
+}

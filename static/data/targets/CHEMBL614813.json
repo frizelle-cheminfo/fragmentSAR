@@ -1,0 +1,57 @@
+{
+  "id": "CHEMBL614813",
+  "name": "HCEC",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614813",
+  "molecules": [
+    {
+      "id": "CHEMBL290916",
+      "name": "EDARAVONE",
+      "smiles": "CC1=NN(c2ccccc2)C(=O)C1",
+      "bioactivity_type": "PC50",
+      "bioactivity_value": 70.4,
+      "bioactivity_units": "uM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "88d0c03fa96e57d0c2bfc79b9a3bff34",
+      "smiles": "[10*]N1N=C(C)CC1=O",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "705b58c7a369267dd78ea1997417548f",
+      "smiles": "O=C1CC=NN1c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "88d0c03fa96e57d0c2bfc79b9a3bff34",
+      "smiles": "[10*]N1N=C(C)CC1=O",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "705b58c7a369267dd78ea1997417548f",
+      "smiles": "O=C1CC=NN1c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 20,
+      "avg_pKi": null
+    }
+  ]
+}

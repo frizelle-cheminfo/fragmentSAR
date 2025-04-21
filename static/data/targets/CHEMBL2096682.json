@@ -1,0 +1,385 @@
+{
+  "id": "CHEMBL2096682",
+  "name": "Sodium channel alpha subunits; brain (Types I, II, III)",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN FAMILY",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2096682",
+  "molecules": [
+    {
+      "id": "CHEMBL517712",
+      "name": "ATROPINE",
+      "smiles": "CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(CO)c1ccccc1)C2",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.45,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL113",
+      "name": "CAFFEINE",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "bioactivity_type": "Vdss",
+      "bioactivity_value": 0.61,
+      "bioactivity_units": "L.kg-1"
+    },
+    {
+      "id": "CHEMBL19224",
+      "name": "PAPAVERINE",
+      "smiles": "COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC",
+      "bioactivity_type": "Blood pressure",
+      "bioactivity_value": -23.0,
+      "bioactivity_units": "mmHg"
+    },
+    {
+      "id": "CHEMBL63",
+      "name": "ROLIPRAM",
+      "smiles": "COc1ccc(C2CNC(=O)C2)cc1OC1CCCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL629",
+      "name": "AMITRIPTYLINE",
+      "smiles": "CN(C)CCC=C1c2ccccc2CCc2ccccc21",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 61.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL284348",
+      "name": "DALFAMPRIDINE",
+      "smiles": "Nc1ccncc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 2000000.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL712",
+      "name": "ANISINDIONE",
+      "smiles": "COc1ccc(C2C(=O)c3ccccc3C2=O)cc1",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 1.3,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL190",
+      "name": "THEOPHYLLINE",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "bioactivity_type": "ED50",
+      "bioactivity_value": 18.5,
+      "bioactivity_units": "mg.kg-1"
+    },
+    {
+      "id": "CHEMBL411",
+      "name": "DIETHYLSTILBESTROL",
+      "smiles": "CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1",
+      "bioactivity_type": "EC50",
+      "bioactivity_value": 9.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL135",
+      "name": "ESTRADIOL",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1.5,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL932",
+      "name": "DIPYRIDAMOLE",
+      "smiles": "OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 500.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL30008",
+      "name": "FLUNARIZINE",
+      "smiles": "Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 290.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 93,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 44,
+      "avg_pKi": 6.86
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 44,
+      "avg_pKi": 6.38
+    },
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cf1bd179a845c4f5ca298068df7eff56",
+      "smiles": "c1ccc(Cc2nccc3ccccc23)cc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d8482246e7c2ff14b622f9a36c68acec",
+      "smiles": "[14*]c1nccc2cc([16*])c([16*])cc12",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "12cd599600cfae8f56ba74483adca412",
+      "smiles": "O=C1CC(c2cccc(OC3CCCC3)c2)CN1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "8c06c744211b3ce04e793abe82f34d78",
+      "smiles": "[15*]C1CNC(=O)C1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "9a68289770b7fc063275a16837cafdd3",
+      "smiles": "c1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    },
+    {
+      "hash": "6e8fe59ae0e0c280850740a88d9e60d5",
+      "smiles": "Nc1ccncc1",
+      "count": 39,
+      "avg_pKi": 2.7
+    },
+    {
+      "hash": "d8f2e87be41ad5437f410fcfda9e4dec",
+      "smiles": "Cn1c(=O)c2[nH]cnc2n(C)c1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "caea2381f407d36a67b976baa8d10ab6",
+      "smiles": "c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "b4c7a10e627247437f26efaa0729549d",
+      "smiles": "[5*]N1CCCCC1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "de1a9909f08ea2f80818006dd965ee24",
+      "smiles": "[14*]c1nc([14*])c2nc([14*])nc([14*])c2n1",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "1b3e98536fc9ae8703d8d68d2f18689e",
+      "smiles": "[4*]CCO",
+      "count": 39,
+      "avg_pKi": 6.3
+    },
+    {
+      "hash": "a74b3f1c04148856d9fe053dd431c2d7",
+      "smiles": "[5*]N1CCN([5*])CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "db0d3de5f8f724dfd26436f8f5c7ac4c",
+      "smiles": "C(=C/c1ccccc1)\\CN1CCN(C(c2ccccc2)c2ccccc2)CC1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "cea745183425ea1f8f19099eecf8ef15",
+      "smiles": "[4*]C([8*])[8*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "cca97f8b1dc1b8715f0b52bf21cec7d1",
+      "smiles": "[4*]CC[7*]",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "b3c49bd868216229c96e3f4cdd9791a7",
+      "smiles": "[16*]c1ccc(F)cc1",
+      "count": 39,
+      "avg_pKi": 6.54
+    },
+    {
+      "hash": "27c7f1536b79407877853911ea0ccc34",
+      "smiles": "[7*]C([8*])CC",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "26a1f197f08f8761c1b97db870d945d6",
+      "smiles": "C(=Cc1ccccc1)c1ccccc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "fc3c7d37d836fddef8c7bbef622c24ad",
+      "smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "6a911437aabf34c315f2f1d7306bc705",
+      "smiles": "c1ccc2c(c1)CC[C@@H]1[C@@H]2CCC2CCC[C@H]21",
+      "count": 29,
+      "avg_pKi": 8.82
+    },
+    {
+      "hash": "5ce868de7f17ff0d6eac8c3a96470180",
+      "smiles": "[4*]CCC[7*]",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "0c81b89cc259e04be277b6e178318f04",
+      "smiles": "[7*]C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "62ae77ee46e86c24267c65ec880dd5be",
+      "smiles": "C=C1c2ccccc2CCc2ccccc21",
+      "count": 18,
+      "avg_pKi": 7.21
+    },
+    {
+      "hash": "ec341f7b1f189725ff3c94d0656f9626",
+      "smiles": "[16*]c1ccc([16*])cc1",
+      "count": 15,
+      "avg_pKi": null
+    },
+    {
+      "hash": "d0ef7a13b253d5e8f258ce53895dbe6f",
+      "smiles": "O=C1c2ccccc2C(=O)C1c1ccccc1",
+      "count": 15,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f1bc680f3f760ddfbdbba0d6c7182826",
+      "smiles": "[15*]C1C(=O)c2ccccc2C1=O",
+      "count": 15,
+      "avg_pKi": null
+    },
+    {
+      "hash": "44c8c1f67bd4589fa02602417998b6a9",
+      "smiles": "[1*]C(=O)C([8*])CO",
+      "count": 5,
+      "avg_pKi": 9.35
+    },
+    {
+      "hash": "2eb363617b4a9ba1d8700471827bf1c5",
+      "smiles": "O=C(Cc1ccccc1)O[C@H]1C[C@H]2CC[C@@H](C1)N2",
+      "count": 5,
+      "avg_pKi": 9.35
+    },
+    {
+      "hash": "5be08faf37c0259b1bd84dd57d74b4ae",
+      "smiles": "[15*][C@H]1C[C@H]2CC[C@@H](C1)N2C",
+      "count": 5,
+      "avg_pKi": 9.35
+    },
+    {
+      "hash": "8f0563e2a5e643e0dcaa4731d0936122",
+      "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+      "count": 5,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 93,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 44,
+      "avg_pKi": 6.86
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 44,
+      "avg_pKi": 6.38
+    },
+    {
+      "hash": "ba19992b82636403e3b9e03138720e4a",
+      "smiles": "O=c1[nH]c(=O)c2[nH]cnc2[nH]1",
+      "count": 44,
+      "avg_pKi": null
+    }
+  ]
+}

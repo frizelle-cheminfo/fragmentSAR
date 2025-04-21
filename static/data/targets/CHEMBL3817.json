@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL3817",
+  "name": "Bcl2-antagonist of cell death (BAD)",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3817",
+  "molecules": [
+    {
+      "id": "CHEMBL91829",
+      "name": "RUBOXISTAURIN",
+      "smiles": "CN(C)C[C@@H]1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 300.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "f39584bf0de9ba4d6e0635beda9a3b69",
+      "smiles": "O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCCOCCn1cc2c2ccccc21",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "7a5128cebe1c2ba0a7d31e37a6dd538a",
+      "smiles": "[13*][C@@H]1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1",
+      "count": 39,
+      "avg_pKi": 6.52
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "2d9e83d576a5415dbef8aef14d1d4804",
+      "smiles": "[5*]N(C)C",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "f39584bf0de9ba4d6e0635beda9a3b69",
+      "smiles": "O=C1NC(=O)C2=C1c1cn(c3ccccc13)CCCOCCn1cc2c2ccccc21",
+      "count": 39,
+      "avg_pKi": 6.52
+    },
+    {
+      "hash": "7a5128cebe1c2ba0a7d31e37a6dd538a",
+      "smiles": "[13*][C@@H]1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1",
+      "count": 39,
+      "avg_pKi": 6.52
+    }
+  ]
+}

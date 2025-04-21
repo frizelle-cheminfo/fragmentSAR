@@ -1,0 +1,135 @@
+{
+  "id": "CHEMBL3869",
+  "name": "Matrix metalloproteinase 14",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3869",
+  "molecules": [
+    {
+      "id": "CHEMBL1241348",
+      "name": "FALDAPREVIR",
+      "smiles": "C=C[C@@H]1C[C@]1(NC(=O)[C@@H]1C[C@@H](Oc2cc(-c3csc(NC(=O)C(C)C)n3)nc3c(Br)c(OC)ccc23)CN1C(=O)[C@@H](NC(=O)OC1CCCC1)C(C)(C)C)C(=O)O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 3.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "c27c6ed1cd7f01d5fff52d02075c4027",
+      "smiles": "O=C(NCC(=O)N1C[C@H](Oc2cc(-c3cscn3)nc3ccccc23)C[C@H]1C(=O)NC1CC1)OC1CCCC1",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "cbe1f4ba2cf2f4e2ec9a12a08c9a74cc",
+      "smiles": "[1*]C([1*])=O",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "d3806e54755075807e7728c99c9d968d",
+      "smiles": "[5*]N1C[C@H]([15*])C[C@H]1[13*]",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "9c07dae90f38b7fb3d8b6de20d29bd3e",
+      "smiles": "[14*]c1csc([14*])n1",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "f92eea184f80efda7fe191fe6c918a2b",
+      "smiles": "[4*][C@]1([15*])C[C@H]1C=C",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "00c5e05e7cf3a3fa0a2895f7348917f9",
+      "smiles": "[1*]C(=O)C(C)C",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "41749cf3e3b6e8f60672bd278ffa8379",
+      "smiles": "[1*]C(=O)[C@@H]([4*])C(C)(C)C",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "83cbc5b1a523d77125b49942bf59655e",
+      "smiles": "[14*]c1cc([16*])c2ccc([16*])c(Br)c2n1",
+      "count": 27,
+      "avg_pKi": 8.52
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "c27c6ed1cd7f01d5fff52d02075c4027",
+      "smiles": "O=C(NCC(=O)N1C[C@H](Oc2cc(-c3cscn3)nc3ccccc23)C[C@H]1C(=O)NC1CC1)OC1CCCC1",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "cbe1f4ba2cf2f4e2ec9a12a08c9a74cc",
+      "smiles": "[1*]C([1*])=O",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "d3806e54755075807e7728c99c9d968d",
+      "smiles": "[5*]N1C[C@H]([15*])C[C@H]1[13*]",
+      "count": 27,
+      "avg_pKi": 8.52
+    },
+    {
+      "hash": "9c07dae90f38b7fb3d8b6de20d29bd3e",
+      "smiles": "[14*]c1csc([14*])n1",
+      "count": 27,
+      "avg_pKi": 8.52
+    }
+  ]
+}

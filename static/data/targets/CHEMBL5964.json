@@ -1,0 +1,139 @@
+{
+  "id": "CHEMBL5964",
+  "name": "Aquaporin-4",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5964",
+  "molecules": [
+    {
+      "id": "CHEMBL220492",
+      "name": "TOPIRAMATE",
+      "smiles": "CC1(C)O[C@@H]2[C@@H](CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@H]23)O1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 250.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL20",
+      "name": "ACETAZOLAMIDE",
+      "smiles": "CC(=O)Nc1nnc(S(N)(=O)=O)s1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 250.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL18",
+      "name": "ETHOXZOLAMIDE",
+      "smiles": "CCOc1ccc2nc(S(N)(=O)=O)sc2c1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 25.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "72e227c140b833b23bf97d63060ea05c",
+      "smiles": "[13*][C@@]12OC[C@H]3OC(C)(C)O[C@H]3[C@@H]1OC(C)(C)O2",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "4bd62f688b3148f93f5eac473310310c",
+      "smiles": "C1OC2OC[C@H]3OCO[C@H]3[C@@H]2O1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "c37dc0eeb68df2c8bb9563b9bd6d4408",
+      "smiles": "[3*]OS(N)(=O)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "395ea4d5587c8a300f48065d8a5166e3",
+      "smiles": "[14*]c1nnc(S(N)(=O)=O)s1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "6965302f4d3955a05437a2caecd29ff2",
+      "smiles": "c1nncs1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "eb669e3a80991fd8b191cdf45e0871d2",
+      "smiles": "c1ccc2scnc2c1",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 33,
+      "avg_pKi": 7.6
+    },
+    {
+      "hash": "2acf2d6fbf20fc012db23c68f494cce6",
+      "smiles": "[16*]c1ccc2nc(S(N)(=O)=O)sc2c1",
+      "count": 33,
+      "avg_pKi": 7.6
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "72e227c140b833b23bf97d63060ea05c",
+      "smiles": "[13*][C@@]12OC[C@H]3OC(C)(C)O[C@H]3[C@@H]1OC(C)(C)O2",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "4bd62f688b3148f93f5eac473310310c",
+      "smiles": "C1OC2OC[C@H]3OCO[C@H]3[C@@H]2O1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "c37dc0eeb68df2c8bb9563b9bd6d4408",
+      "smiles": "[3*]OS(N)(=O)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "395ea4d5587c8a300f48065d8a5166e3",
+      "smiles": "[14*]c1nnc(S(N)(=O)=O)s1",
+      "count": 35,
+      "avg_pKi": 6.6
+    }
+  ]
+}

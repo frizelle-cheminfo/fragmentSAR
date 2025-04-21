@@ -1,0 +1,113 @@
+{
+  "id": "CHEMBL614245",
+  "name": "THP-1",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614245",
+  "molecules": [
+    {
+      "id": "CHEMBL119385",
+      "name": "NEFLAMAPIMOD",
+      "smiles": "O=c1ncn2nc(Sc3ccc(F)cc3F)ccc2c1-c1c(Cl)cccc1Cl",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 22.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL36",
+      "name": "PYRIMETHAMINE",
+      "smiles": "CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 2800.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0d380ad5817371b44f40c35f782f565b",
+      "smiles": "[14*]c1ccc2c([16*])c(=O)ncn2n1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "e42159e645db678471737bd6b3e8a846",
+      "smiles": "O=c1ncn2nc(Sc3ccccc3)ccc2c1-c1ccccc1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "4a4783da92d4b12452d885bd637ea95e",
+      "smiles": "[16*]c1c(Cl)cccc1Cl",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "b9e40fb2c2c3de6cd8e6483f481251ef",
+      "smiles": "[14*]c1nc(N)nc(N)c1[16*]",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "2d7b821be0d70ca45f50288a07607210",
+      "smiles": "[16*]c1ccc(Cl)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    },
+    {
+      "hash": "c951e85f6fd520b1e4879d864a173f79",
+      "smiles": "c1ccc(-c2cncnc2)cc1",
+      "count": 39,
+      "avg_pKi": 5.55
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0d380ad5817371b44f40c35f782f565b",
+      "smiles": "[14*]c1ccc2c([16*])c(=O)ncn2n1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "e42159e645db678471737bd6b3e8a846",
+      "smiles": "O=c1ncn2nc(Sc3ccccc3)ccc2c1-c1ccccc1",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "4a4783da92d4b12452d885bd637ea95e",
+      "smiles": "[16*]c1c(Cl)cccc1Cl",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 7.66
+    },
+    {
+      "hash": "23fd8cf1804f651a55304cd94426d76c",
+      "smiles": "[16*]c1ccc(F)cc1F",
+      "count": 39,
+      "avg_pKi": 7.66
+    }
+  ]
+}

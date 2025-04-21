@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL614819",
+  "name": "HEL 299",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614819",
+  "molecules": [
+    {
+      "id": "CHEMBL2016757",
+      "name": "GS-441524",
+      "smiles": "N#C[C@@]1(c2ccc3c(N)ncnn23)O[C@H](CO)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "EC50",
+      "bioactivity_value": 4100.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "bdb31210cc0312d3d3eb8f02a9262c6f",
+      "smiles": "c1ncc2ccc(C3CCCO3)n2n1",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "1c7d2f2a2287cdcff650cb03e1c162e8",
+      "smiles": "[13*][C@H]1O[C@]([13*])(C#N)[C@H](O)[C@@H]1O",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "cc5fab4b6975a26a2bba2957bf64ef21",
+      "smiles": "[14*]c1ccc2c(N)ncnn12",
+      "count": 36,
+      "avg_pKi": 5.39
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "bdb31210cc0312d3d3eb8f02a9262c6f",
+      "smiles": "c1ncc2ccc(C3CCCO3)n2n1",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "1c7d2f2a2287cdcff650cb03e1c162e8",
+      "smiles": "[13*][C@H]1O[C@]([13*])(C#N)[C@H](O)[C@@H]1O",
+      "count": 36,
+      "avg_pKi": 5.39
+    },
+    {
+      "hash": "cc5fab4b6975a26a2bba2957bf64ef21",
+      "smiles": "[14*]c1ccc2c(N)ncnn12",
+      "count": 36,
+      "avg_pKi": 5.39
+    }
+  ]
+}

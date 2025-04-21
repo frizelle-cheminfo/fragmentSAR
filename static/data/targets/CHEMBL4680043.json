@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL4680043",
+  "name": "Protein argonaute-2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4680043",
+  "molecules": [
+    {
+      "id": "CHEMBL21",
+      "name": "SULFANILAMIDE",
+      "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 28000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "8c85da655bb067fd8ed2b710b8728cef",
+      "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+      "count": 34,
+      "avg_pKi": 4.55
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 34,
+      "avg_pKi": 4.55
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "8c85da655bb067fd8ed2b710b8728cef",
+      "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+      "count": 34,
+      "avg_pKi": 4.55
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 34,
+      "avg_pKi": 4.55
+    }
+  ]
+}

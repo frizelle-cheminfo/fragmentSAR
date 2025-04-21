@@ -1,0 +1,33 @@
+{
+  "id": "CHEMBL283",
+  "name": "Matrix metalloproteinase 3",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL283",
+  "molecules": [
+    {
+      "id": "CHEMBL734",
+      "name": "ACETOHYDROXAMIC ACID",
+      "smiles": "CC(=O)NO",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 47000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "68850f69aa4320465938b45abd938af7",
+      "smiles": "CC(=O)NO",
+      "count": 32,
+      "avg_pKi": 4.33
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "68850f69aa4320465938b45abd938af7",
+      "smiles": "CC(=O)NO",
+      "count": 32,
+      "avg_pKi": 4.33
+    }
+  ]
+}

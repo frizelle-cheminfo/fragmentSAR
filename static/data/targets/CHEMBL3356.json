@@ -1,0 +1,163 @@
+{
+  "id": "CHEMBL3356",
+  "name": "Cytochrome P450 1A2",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL3356",
+  "molecules": [
+    {
+      "id": "CHEMBL98",
+      "name": "VORINOSTAT",
+      "smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "bioactivity_type": "Inhibition",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL495727",
+      "name": "AT-9283",
+      "smiles": "O=C(Nc1c[nH]nc1-c1nc2ccc(CN3CCOCC3)cc2[nH]1)NC1CC1",
+      "bioactivity_type": "PPB",
+      "bioactivity_value": 81.5,
+      "bioactivity_units": "%"
+    },
+    {
+      "id": "CHEMBL270515",
+      "name": "DELANZOMIB",
+      "smiles": "CC(C)C[C@H](NC(=O)[C@@H](NC(=O)c1cccc(-c2ccccc2)n1)[C@@H](C)O)B(O)O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 3.8,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 103,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 64,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1f48d113bcf69078af010419f18645ab",
+      "smiles": "O=C(Nc1c[nH]nc1-c1nc2ccc(CN3CCOCC3)cc2[nH]1)NC1CC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "6119a905d4056b40ea717208004955a3",
+      "smiles": "[15*]C1CC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "edd7d5e5ad307297c3f599a328335f9a",
+      "smiles": "[5*]N1CCOCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "cbe1f4ba2cf2f4e2ec9a12a08c9a74cc",
+      "smiles": "[1*]C([1*])=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "66eb6c3eb6efe048d102c2c683210a20",
+      "smiles": "[14*]c1n[nH]cc1[16*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2b5381b423945120d86980f1c3fce1a2",
+      "smiles": "[14*]c1nc2ccc([16*])cc2[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "7e60aedce88a20eab3591f9ee68f04c5",
+      "smiles": "[4*][C@@H](CC(C)C)B(O)O",
+      "count": 25,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 25,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "56ec5bb9094261f616074b0d9e2743ce",
+      "smiles": "[1*]C(=O)[C@@H]([4*])[C@@H](C)O",
+      "count": 25,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "33b5a9d71b55a07f66f2dee18ea7a920",
+      "smiles": "[14*]c1cccc([14*])n1",
+      "count": 25,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "1b21e1787c382e6ba2bff51a60ab1017",
+      "smiles": "c1ccc(-c2ccccn2)cc1",
+      "count": 25,
+      "avg_pKi": 8.42
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 103,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 64,
+      "avg_pKi": 8.42
+    },
+    {
+      "hash": "3c5a5600d9210837d469a294af4738dc",
+      "smiles": "[1*]C(=O)CCCCCCC(=O)NO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "1f48d113bcf69078af010419f18645ab",
+      "smiles": "O=C(Nc1c[nH]nc1-c1nc2ccc(CN3CCOCC3)cc2[nH]1)NC1CC1",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

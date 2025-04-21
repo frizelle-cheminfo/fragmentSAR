@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL5580",
+  "name": "Ectonucleotide pyrophosphatase/phosphodiesterase family member 3",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL5580",
+  "molecules": [
+    {
+      "id": "CHEMBL20",
+      "name": "ACETAZOLAMIDE",
+      "smiles": "CC(=O)Nc1nnc(S(N)(=O)=O)s1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 250.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "395ea4d5587c8a300f48065d8a5166e3",
+      "smiles": "[14*]c1nnc(S(N)(=O)=O)s1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "6965302f4d3955a05437a2caecd29ff2",
+      "smiles": "c1nncs1",
+      "count": 35,
+      "avg_pKi": 6.6
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "395ea4d5587c8a300f48065d8a5166e3",
+      "smiles": "[14*]c1nnc(S(N)(=O)=O)s1",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "cf549dad154aa2162843f67aca37e75f",
+      "smiles": "[1*]C(C)=O",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 35,
+      "avg_pKi": 6.6
+    },
+    {
+      "hash": "6965302f4d3955a05437a2caecd29ff2",
+      "smiles": "c1nncs1",
+      "count": 35,
+      "avg_pKi": 6.6
+    }
+  ]
+}

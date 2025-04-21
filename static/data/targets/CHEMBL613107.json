@@ -1,0 +1,215 @@
+{
+  "id": "CHEMBL613107",
+  "name": "PBMC",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL613107",
+  "molecules": [
+    {
+      "id": "CHEMBL267345",
+      "name": "AMPHOTERICIN B",
+      "smiles": "C[C@@H]1[C@H](O)[C@@H](C)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)CC(=O)O[C@H]1C)C[C@H](O)[C@H]2C(=O)O",
+      "bioactivity_type": "MIC",
+      "bioactivity_value": 4000.0,
+      "bioactivity_units": "ug.mL-1"
+    },
+    {
+      "id": "CHEMBL276711",
+      "name": "SEMAXANIB",
+      "smiles": "Cc1cc(C)c(/C=C2\\C(=O)Nc3ccccc32)[nH]1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 700.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL101253",
+      "name": "VATALANIB",
+      "smiles": "Clc1ccc(Nc2nnc(Cc3ccncc3)c3ccccc23)cc1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 37.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL511115",
+      "name": "CILOMILAST",
+      "smiles": "COc1ccc([C@]2(C#N)CC[C@@H](C(=O)O)CC2)cc1OC1CCCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 100.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL63",
+      "name": "ROLIPRAM",
+      "smiles": "COc1ccc(C2CNC(=O)C2)cc1OC1CCCC1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 96,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 57,
+      "avg_pKi": 7.0
+    },
+    {
+      "hash": "a96b83b0cc3dd3162f7319dda03e538a",
+      "smiles": "[14*]c1[nH]c(C)cc1C",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "c512dd6638be7b11f21af4a585ddedc9",
+      "smiles": "O=C1Nc2ccccc2/C1=C/c1ccc[nH]1",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "b59a43a5d3ef23498fe606bcb6b87eba",
+      "smiles": "[7*]C1C(=O)Nc2ccccc21",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "f87bdb716395d91b8e4cd50ba5038d87",
+      "smiles": "[16*]c1ccncc1",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "40d6899ca9d255fa5e544c2c23858700",
+      "smiles": "c1ccc(Nc2nnc(Cc3ccncc3)c3ccccc23)cc1",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "2d7b821be0d70ca45f50288a07607210",
+      "smiles": "[16*]c1ccc(Cl)cc1",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "d55abed7d1c7092a54bfffc7d36b06bb",
+      "smiles": "[14*]c1nnc([14*])c2ccccc12",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "9e67cfdfc5b984bbf65900437226ad88",
+      "smiles": "[8*]C[8*]",
+      "count": 39,
+      "avg_pKi": 7.43
+    },
+    {
+      "hash": "8ab55b8b73ba6bf2abf213fc7fbd3883",
+      "smiles": "c1cc(OC2CCCC2)cc(C2CCCCC2)c1",
+      "count": 39,
+      "avg_pKi": 7.0
+    },
+    {
+      "hash": "9aa8d4fd235c934ca9f48c3a826da4de",
+      "smiles": "[15*][C@H]1CC[C@@]([15*])(C#N)CC1",
+      "count": 39,
+      "avg_pKi": 7.0
+    },
+    {
+      "hash": "12cd599600cfae8f56ba74483adca412",
+      "smiles": "O=C1CC(c2cccc(OC3CCCC3)c2)CN1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "8c06c744211b3ce04e793abe82f34d78",
+      "smiles": "[15*]C1CNC(=O)C1",
+      "count": 39,
+      "avg_pKi": 6.0
+    },
+    {
+      "hash": "a1fe04c4d497af33b4d45cc6eb42ad4a",
+      "smiles": "[13*][C@@H]1O[C@H](C)[C@@H](O)[C@H](N)[C@@H]1O",
+      "count": 18,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2e75e3fb60fde1d6c825a0df00a7b1ca",
+      "smiles": "[15*][C@H]1[C@@H]2C[C@@H]([15*])/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](C)[C@@H](O)[C@@H](C)[C@H](C)OC(=O)C[C@H](O)C[C@H](O)CC[C@@H](O)[C@H](O)C[C@H](O)C[C@](O)(C[C@@H]1O)O2",
+      "count": 18,
+      "avg_pKi": null
+    },
+    {
+      "hash": "84060575ee29d035f12bcb91252d7433",
+      "smiles": "O=C1CCCCCCCCCCCC2CCC[C@H](C[C@@H](O[C@H]3CCCCO3)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/CCCCO1)O2",
+      "count": 18,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 96,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "85db2605eeb5a3155a434eeccbdfcdab",
+      "smiles": "[16*]c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "b6fdc0be86af197dc27e1516763fbd5b",
+      "smiles": "[15*]C1CCCC1",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 78,
+      "avg_pKi": 6.5
+    },
+    {
+      "hash": "1de313a35775659a1791ec7f9bb108db",
+      "smiles": "[6*]C(=O)O",
+      "count": 57,
+      "avg_pKi": 7.0
+    }
+  ]
+}

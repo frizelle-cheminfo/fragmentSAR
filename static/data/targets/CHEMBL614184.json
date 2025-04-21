@@ -1,0 +1,143 @@
+{
+  "id": "CHEMBL614184",
+  "name": "MT2",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614184",
+  "molecules": [
+    {
+      "id": "CHEMBL116",
+      "name": "AMPRENAVIR",
+      "smiles": "CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 0.16,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL145",
+      "name": "CAFFEIC ACID",
+      "smiles": "O=C(O)/C=C/c1ccc(O)c(O)c1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 1200000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "48bad67ee26c7d1f391b6ca528be8400",
+      "smiles": "[15*][C@H]1CCOC1",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "ee6c50abbbcb54948427ad0550dba004",
+      "smiles": "[4*]CC(C)C",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "fc36ef487bf076927480574f6ed3f03c",
+      "smiles": "[5*]N([5*])[5*]",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "4a28358691c7ef974c497852e3a41325",
+      "smiles": "[16*]c1ccccc1",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "cbe1f4ba2cf2f4e2ec9a12a08c9a74cc",
+      "smiles": "[1*]C([1*])=O",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "24c4ef2b27662db5b1cd64b23f5ab4cf",
+      "smiles": "[12*]S(=O)(=O)c1ccc(N)cc1",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "5fef816eaea35f5002fc0c63b4ae6d86",
+      "smiles": "[4*]C[C@@H](O)[C@@H]([4*])C[8*]",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "a4d38048cd0c18d7da6f5c528b4bda00",
+      "smiles": "O=C(N[C@H](CCNS(=O)(=O)c1ccccc1)Cc1ccccc1)O[C@H]1CCOC1",
+      "count": 19,
+      "avg_pKi": 9.8
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 19,
+      "avg_pKi": 9.8
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "975f4ba64117f4dc65044299552ee698",
+      "smiles": "c1ccccc1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "a2ddaf6247dbe92e1ff917f96aef9965",
+      "smiles": "[16*]c1ccc(O)c(O)c1",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "1a955f800668be32bc28a2792b911d22",
+      "smiles": "[7*]CC(=O)O",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 2.92
+    },
+    {
+      "hash": "48bad67ee26c7d1f391b6ca528be8400",
+      "smiles": "[15*][C@H]1CCOC1",
+      "count": 19,
+      "avg_pKi": 9.8
+    }
+  ]
+}

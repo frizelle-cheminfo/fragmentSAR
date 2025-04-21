@@ -1,0 +1,157 @@
+{
+  "id": "CHEMBL614004",
+  "name": "A2780",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL614004",
+  "molecules": [
+    {
+      "id": "CHEMBL48449",
+      "name": "CANTHARIDIN",
+      "smiles": "C[C@@]12C(=O)OC(=O)[C@]1(C)[C@H]1CC[C@@H]2O1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 160.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL428690",
+      "name": "ALVOCIDIB",
+      "smiles": "CN1CC[C@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@H](O)C1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 330.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL296468",
+      "name": "BMS-387032",
+      "smiles": "CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 48000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ea03d7fd63c694dbd78cb9f539ddec07",
+      "smiles": "O=c1cc(-c2ccccc2)oc2c(C3CCNCC3)cccc12",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "459d6fa5102a92ac1e7b673249675d71",
+      "smiles": "[15*][C@H]1CCN(C)C[C@H]1O",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "88998d360a06e88ad7be96f7520f68cf",
+      "smiles": "[14*]c1cc(=O)c2c(O)cc(O)c([16*])c2o1",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "2591ef2675b44cbd5697ac9bda327b33",
+      "smiles": "[16*]c1ccccc1Cl",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "323771f9c69d0621b5d3e2119c25c63f",
+      "smiles": "[8*]C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "f475c92d41f61cd6830daca24cab48fd",
+      "smiles": "[14*]c1cnc([14*])o1",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "e8612bb30e38aab35b691545690a0e78",
+      "smiles": "O=C(Nc1ncc(SCc2ncco2)s1)C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "70e7edda69e5fc61402e352afcacbe8b",
+      "smiles": "[11*]S[11*]",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "1b2fb513ed47c2899f5365461dd8091e",
+      "smiles": "[14*]c1cnc([14*])s1",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "2a24adc708ee33e280690c59c201bd37",
+      "smiles": "[15*]C1CCNCC1",
+      "count": 39,
+      "avg_pKi": 4.32
+    },
+    {
+      "hash": "09f017ad93a1bb0f3451f5ada5a16ed9",
+      "smiles": "C[C@@]12C(=O)OC(=O)[C@]1(C)[C@H]1CC[C@@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    },
+    {
+      "hash": "51eafc5fd7abded9e8efb8fd91cf8d73",
+      "smiles": "O=C1OC(=O)C2C1[C@@H]1CC[C@H]2O1",
+      "count": 17,
+      "avg_pKi": 6.8
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ea03d7fd63c694dbd78cb9f539ddec07",
+      "smiles": "O=c1cc(-c2ccccc2)oc2c(C3CCNCC3)cccc12",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "459d6fa5102a92ac1e7b673249675d71",
+      "smiles": "[15*][C@H]1CCN(C)C[C@H]1O",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "88998d360a06e88ad7be96f7520f68cf",
+      "smiles": "[14*]c1cc(=O)c2c(O)cc(O)c([16*])c2o1",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "2591ef2675b44cbd5697ac9bda327b33",
+      "smiles": "[16*]c1ccccc1Cl",
+      "count": 39,
+      "avg_pKi": 6.48
+    },
+    {
+      "hash": "323771f9c69d0621b5d3e2119c25c63f",
+      "smiles": "[8*]C(C)(C)C",
+      "count": 39,
+      "avg_pKi": 4.32
+    }
+  ]
+}

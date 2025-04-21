@@ -1,0 +1,33 @@
+{
+  "id": "CHEMBL1914279",
+  "name": "Proton-coupled amino acid transporter 1",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1914279",
+  "molecules": [
+    {
+      "id": "CHEMBL1046",
+      "name": "AMINOCAPROIC ACID",
+      "smiles": "NCCCCCC(=O)O",
+      "bioactivity_type": "Ki",
+      "bioactivity_value": 50000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "0a22fb231fa7bcaea0a16b9f236066a0",
+      "smiles": "NCCCCCC(=O)O",
+      "count": 15,
+      "avg_pKi": 4.3
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "0a22fb231fa7bcaea0a16b9f236066a0",
+      "smiles": "NCCCCCC(=O)O",
+      "count": 15,
+      "avg_pKi": 4.3
+    }
+  ]
+}

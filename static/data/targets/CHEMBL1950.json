@@ -1,0 +1,105 @@
+{
+  "id": "CHEMBL1950",
+  "name": "Antithrombin-III",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1950",
+  "molecules": [
+    {
+      "id": "CHEMBL5314374",
+      "name": "IDRAPARINUX SODIUM",
+      "smiles": "CO[C@H]1O[C@H](COS(=O)(=O)[O-])[C@@H](O[C@@H]2O[C@@H](C(=O)[O-])[C@@H](O[C@H]3O[C@H](COS(=O)(=O)[O-])[C@@H](O[C@@H]4O[C@H](C(=O)[O-])[C@@H](O[C@H]5O[C@H](COS(=O)(=O)[O-])[C@@H](OC)[C@H](OC)[C@H]5OC)[C@H](OC)[C@H]4OC)[C@H](OS(=O)(=O)[O-])[C@H]3OS(=O)(=O)[O-])[C@H](OC)[C@H]2OC)[C@H](OS(=O)(=O)[O-])[C@H]1OS(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]",
+      "bioactivity_type": "Kd",
+      "bioactivity_value": 1.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "30be1dda3fa67aa1aa9e3ad1d8a3b064",
+      "smiles": "[13*][C@@H]1O[C@@H]([13*])[C@@H]([15*])[C@H]([15*])[C@H]1[15*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "57c21ba237dbc49cff41d485e3dc86d1",
+      "smiles": "[13*][C@H]1O[C@H]([13*])[C@@H]([15*])[C@H]([15*])[C@H]1[15*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "ed3cbe8d8f25fca20c4cc5ee9b94ba16",
+      "smiles": "[3*]OS(=O)(=O)[O-]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "6d1b8f03ac09417ea3b1e99b75af7a76",
+      "smiles": "C1CC[C@@H](O[C@H]2CC[C@H](O[C@H]3CC[C@@H](O[C@H]4CC[C@H](O[C@H]5CCCOC5)OC4)OC3)OC2)OC1",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "a524a23b467e9b20bda127538f07270a",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H]([15*])[C@H]([15*])[C@H]1[15*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "3d7ed3a88332cedd882d5f72f0e1f67d",
+      "smiles": "[6*]C(=O)[O-]",
+      "count": 31,
+      "avg_pKi": 9.0
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "3125c29f127cf18fdd39d72b56f6926d",
+      "smiles": "[4*]C[8*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "30be1dda3fa67aa1aa9e3ad1d8a3b064",
+      "smiles": "[13*][C@@H]1O[C@@H]([13*])[C@@H]([15*])[C@H]([15*])[C@H]1[15*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "57c21ba237dbc49cff41d485e3dc86d1",
+      "smiles": "[13*][C@H]1O[C@H]([13*])[C@@H]([15*])[C@H]([15*])[C@H]1[15*]",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "997c0f709a07440fcd6f3773f81d2ffb",
+      "smiles": "[3*]OC",
+      "count": 31,
+      "avg_pKi": 9.0
+    },
+    {
+      "hash": "ed3cbe8d8f25fca20c4cc5ee9b94ba16",
+      "smiles": "[3*]OS(=O)(=O)[O-]",
+      "count": 31,
+      "avg_pKi": 9.0
+    }
+  ]
+}

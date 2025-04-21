@@ -1,0 +1,183 @@
+{
+  "id": "CHEMBL2111400",
+  "name": "Phosphodiesterase 3 and 5 (PDE3 and PDE5)",
+  "organism": "Homo sapiens",
+  "target_type": "SELECTIVITY GROUP",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2111400",
+  "molecules": [
+    {
+      "id": "CHEMBL8184",
+      "name": "CARTAZOLATE",
+      "smiles": "CCCCNc1c(C(=O)OCC)cnc2c1cnn2CC",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 180.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL779",
+      "name": "TADALAFIL",
+      "smiles": "CN1CC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@@H]2C1=O",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 6.7,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL192",
+      "name": "SILDENAFIL",
+      "smiles": "CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12",
+      "bioactivity_type": "Pc",
+      "bioactivity_value": 87000000.0,
+      "bioactivity_units": "cm s-1"
+    },
+    {
+      "id": "CHEMBL1520",
+      "name": "VARDENAFIL",
+      "smiles": "CCCc1nc(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)[nH]n12",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 0.7,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 117,
+      "avg_pKi": 7.95
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 117,
+      "avg_pKi": 7.95
+    },
+    {
+      "hash": "8c6cfd506f2f01797070c728bf031819",
+      "smiles": "[12*]S(=O)(=O)c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "3faa90aa9210135d564707639f162863",
+      "smiles": "[8*]CCC",
+      "count": 78,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "a991422d38efd0f020fe80d43f182563",
+      "smiles": "[9*]n1ncc2c([16*])c([16*])cnc21",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "17a7aa002b083eae8472705e3b0e1512",
+      "smiles": "[1*]C([6*])=O",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "12c9307384444f52b4f14d58874dbe82",
+      "smiles": "c1cnc2[nH]ncc2c1",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "6531895d62e6241f849046f169f929a7",
+      "smiles": "[4*]CCCC",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "b5cdb4e74fdda25bee12227f38fd1c42",
+      "smiles": "[8*]CC",
+      "count": 39,
+      "avg_pKi": 6.74
+    },
+    {
+      "hash": "164d0e852f3b086d0b6fc38818e825d7",
+      "smiles": "O=C1NCC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@H]12",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "feab9d2d5d868a8963a39cac34576ee3",
+      "smiles": "CN1CC(=O)N2[C@H](c3ccc4c(c3)OCO4)c3[nH]c4ccccc4c3C[C@@H]2C1=O",
+      "count": 39,
+      "avg_pKi": 8.17
+    },
+    {
+      "hash": "8463c9c1ed07daca717b015aaa3bbda4",
+      "smiles": "O=c1[nH]c(-c2cccc(S(=O)(=O)N3CCNCC3)c2)nc2cn[nH]c12",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f12df99849f87ab9d4f4e52f149b135d",
+      "smiles": "[5*]N1CCN(C)CC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "4fa3cb9e033b1700e1ed5ad5650367db",
+      "smiles": "[14*]c1nc2c([14*])nn(C)c2c(=O)[nH]1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a4c0ff02d01472f1af98ca5d8a6d4386",
+      "smiles": "[14*]c1nc(=O)c2c(C)nc([14*])n2[nH]1",
+      "count": 39,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "a74b3f1c04148856d9fe053dd431c2d7",
+      "smiles": "[5*]N1CCN([5*])CC1",
+      "count": 39,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "105d9b80bac83c97d49931605cd95e0b",
+      "smiles": "O=c1nc(-c2cccc(S(=O)(=O)N3CCNCC3)c2)[nH]n2cncc12",
+      "count": 39,
+      "avg_pKi": 9.15
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "e9005ad946f5985c72843007a96e23b6",
+      "smiles": "[3*]O[3*]",
+      "count": 117,
+      "avg_pKi": 7.95
+    },
+    {
+      "hash": "ee5b43f5cf79b25d76c356dc6c614ef7",
+      "smiles": "[4*]CC",
+      "count": 117,
+      "avg_pKi": 7.95
+    },
+    {
+      "hash": "8c6cfd506f2f01797070c728bf031819",
+      "smiles": "[12*]S(=O)(=O)c1ccc([16*])c([16*])c1",
+      "count": 78,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "3faa90aa9210135d564707639f162863",
+      "smiles": "[8*]CCC",
+      "count": 78,
+      "avg_pKi": 9.15
+    },
+    {
+      "hash": "a991422d38efd0f020fe80d43f182563",
+      "smiles": "[9*]n1ncc2c([16*])c([16*])cnc21",
+      "count": 39,
+      "avg_pKi": 6.74
+    }
+  ]
+}

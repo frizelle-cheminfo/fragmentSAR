@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL4106128",
+  "name": "IL15-IL15 receptor",
+  "organism": "Homo sapiens",
+  "target_type": "PROTEIN-PROTEIN INTERACTION",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4106128",
+  "molecules": [
+    {
+      "id": "CHEMBL242948",
+      "name": "POLAPREZINC",
+      "smiles": "NCCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O",
+      "bioactivity_type": "KA",
+      "bioactivity_value": 1.3,
+      "bioactivity_units": "uM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2cdd28fad6b5910fe7b36cc2d1fc1280",
+      "smiles": "[1*]C(=O)CCN",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a741fcd3f37565300e0d3a300b531f5e",
+      "smiles": "[4*][C@@H](C[8*])C(=O)O",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 34,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "31ab2be621f2823edf671980c2d0d99d",
+      "smiles": "c1c[nH]cn1",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "2cdd28fad6b5910fe7b36cc2d1fc1280",
+      "smiles": "[1*]C(=O)CCN",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "a741fcd3f37565300e0d3a300b531f5e",
+      "smiles": "[4*][C@@H](C[8*])C(=O)O",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "fa9bd7ea01960391deb5d05f081a8627",
+      "smiles": "[14*]c1c[nH]cn1",
+      "count": 34,
+      "avg_pKi": null
+    },
+    {
+      "hash": "f02ec0870ff26d96bad504c43c120793",
+      "smiles": "[5*]N[5*]",
+      "count": 34,
+      "avg_pKi": null
+    }
+  ]
+}

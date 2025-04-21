@@ -1,0 +1,69 @@
+{
+  "id": "CHEMBL1889",
+  "name": "Vasopressin V1a receptor",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1889",
+  "molecules": [
+    {
+      "id": "CHEMBL276711",
+      "name": "SEMAXANIB",
+      "smiles": "Cc1cc(C)c(/C=C2\\C(=O)Nc3ccccc32)[nH]1",
+      "bioactivity_type": "IC50",
+      "bioactivity_value": 700.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "a96b83b0cc3dd3162f7319dda03e538a",
+      "smiles": "[14*]c1[nH]c(C)cc1C",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "c512dd6638be7b11f21af4a585ddedc9",
+      "smiles": "O=C1Nc2ccccc2/C1=C/c1ccc[nH]1",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "b59a43a5d3ef23498fe606bcb6b87eba",
+      "smiles": "[7*]C1C(=O)Nc2ccccc21",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.15
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "a96b83b0cc3dd3162f7319dda03e538a",
+      "smiles": "[14*]c1[nH]c(C)cc1C",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "c512dd6638be7b11f21af4a585ddedc9",
+      "smiles": "O=C1Nc2ccccc2/C1=C/c1ccc[nH]1",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "b59a43a5d3ef23498fe606bcb6b87eba",
+      "smiles": "[7*]C1C(=O)Nc2ccccc21",
+      "count": 39,
+      "avg_pKi": 6.15
+    },
+    {
+      "hash": "08ea600272b4146c1dca6e01ada66a3a",
+      "smiles": "[7*]C[8*]",
+      "count": 39,
+      "avg_pKi": 6.15
+    }
+  ]
+}

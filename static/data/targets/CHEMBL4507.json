@@ -1,0 +1,101 @@
+{
+  "id": "CHEMBL4507",
+  "name": "High-affinity choline transporter",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4507",
+  "molecules": [
+    {
+      "id": "CHEMBL411",
+      "name": "DIETHYLSTILBESTROL",
+      "smiles": "CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1",
+      "bioactivity_type": "EC50",
+      "bioactivity_value": 9.0,
+      "bioactivity_units": "nM"
+    },
+    {
+      "id": "CHEMBL477",
+      "name": "ADENOSINE",
+      "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "Km",
+      "bioactivity_value": 42000.0,
+      "bioactivity_units": "nM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "27c7f1536b79407877853911ea0ccc34",
+      "smiles": "[7*]C([8*])CC",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "affc493b6cbff08efa3d6c8988a9282d",
+      "smiles": "[16*]c1ccc(O)cc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    },
+    {
+      "hash": "26a1f197f08f8761c1b97db870d945d6",
+      "smiles": "C(=Cc1ccccc1)c1ccccc1",
+      "count": 30,
+      "avg_pKi": 8.05
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "ec90467c042db4e5b543653e0c9b5259",
+      "smiles": "c1ncc2ncn([C@H]3CCCO3)c2n1",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "4839c13b1767763d5f0a46f70c909b34",
+      "smiles": "[13*][C@@H]1O[C@H]([13*])[C@@H](O)[C@H]1O",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "9aebeb7281315b563af595c0a9564800",
+      "smiles": "[9*]n1cnc2c(N)ncnc21",
+      "count": 38,
+      "avg_pKi": 4.38
+    },
+    {
+      "hash": "27c7f1536b79407877853911ea0ccc34",
+      "smiles": "[7*]C([8*])CC",
+      "count": 30,
+      "avg_pKi": 8.05
+    }
+  ]
+}

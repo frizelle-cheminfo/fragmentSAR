@@ -1,0 +1,81 @@
+{
+  "id": "CHEMBL4513129",
+  "name": "HuCC-A1",
+  "organism": "Homo sapiens",
+  "target_type": "CELL-LINE",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL4513129",
+  "molecules": [
+    {
+      "id": "CHEMBL186141",
+      "name": "ANDROGRAPHOLIDE",
+      "smiles": "C=C1CC[C@@H]2[C@](C)(CO)[C@H](O)CC[C@@]2(C)[C@@H]1C/C=C1/C(=O)OC[C@H]1O",
+      "bioactivity_type": "IG50",
+      "bioactivity_value": 30.0,
+      "bioactivity_units": "uM"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "d697e25e11fc7d015d44a9b28eb9f7f0",
+      "smiles": "[7*]C1C(=O)OC[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "28b8e01ca5e1a19c336dec72762e125d",
+      "smiles": "[7*]CC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8445e47e3713e67afc2ccda25fb138ed",
+      "smiles": "C=C1CC[C@@H]2CCCCC2[C@@H]1C/C=C1\\CCOC1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "61ca279fcf29afc8aee53d0d4c9f0aaa",
+      "smiles": "[15*][C@@H]1C(=C)CC[C@@H]2[C@@]([15*])(C)[C@H](O)CC[C@@]12C",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "d697e25e11fc7d015d44a9b28eb9f7f0",
+      "smiles": "[7*]C1C(=O)OC[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "28b8e01ca5e1a19c336dec72762e125d",
+      "smiles": "[7*]CC[8*]",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "0020bb3cff208a481c5a9bdcaf6eef58",
+      "smiles": "[8*]CO",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "8445e47e3713e67afc2ccda25fb138ed",
+      "smiles": "C=C1CC[C@@H]2CCCCC2[C@@H]1C/C=C1\\CCOC1=O",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "61ca279fcf29afc8aee53d0d4c9f0aaa",
+      "smiles": "[15*][C@@H]1C(=C)CC[C@@H]2[C@@]([15*])(C)[C@H](O)CC[C@@]12C",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CHEMBL2738",
+  "name": "Acrosin",
+  "organism": "Homo sapiens",
+  "target_type": "SINGLE PROTEIN",
+  "chembl_link": "https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL2738",
+  "molecules": [
+    {
+      "id": "CHEMBL1222251",
+      "name": "INOSITOL",
+      "smiles": "O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O",
+      "bioactivity_type": "k cat",
+      "bioactivity_value": 13.3,
+      "bioactivity_units": "s-1"
+    }
+  ],
+  "fragments": [
+    {
+      "hash": "6091d48034cb7a1a4b56f2dc5a76e8ca",
+      "smiles": "C1CCCCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3f858de728bc93272a4a3786439cf620",
+      "smiles": "O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ],
+  "top_fragments": [
+    {
+      "hash": "6091d48034cb7a1a4b56f2dc5a76e8ca",
+      "smiles": "C1CCCCC1",
+      "count": 39,
+      "avg_pKi": null
+    },
+    {
+      "hash": "3f858de728bc93272a4a3786439cf620",
+      "smiles": "O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O",
+      "count": 39,
+      "avg_pKi": null
+    }
+  ]
+}
