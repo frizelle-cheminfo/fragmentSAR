@@ -8,7 +8,6 @@
     }
   ],
   "routes": [
-    // serve index.html for **all** non‑static URLs so your SPA router can take over
     { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
